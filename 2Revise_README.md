@@ -42,17 +42,12 @@ We used these visualizations to identify the opportunities for our business to m
 ### Visual 1
 ![graph1](./images/Business_Pricing_per_Region.png)
 
-### Visual 1
+### Visual 2
 ![graph1](./images/Number_of_Wineries_per_Region.png)
 
-### Visual 1
+### Visual 3
 ![graph1](./images/Ratings_per_Region.png)
 
-### Visual 1
-![graph1](./images/NV_Map.png)
-
-### Visual 1
-![graph1](./images/SD_Map.png)
 
 
 ## Conclusions
