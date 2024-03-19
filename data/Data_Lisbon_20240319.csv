@@ -1,0 +1,538 @@
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Hotel Avenida Palace,"R. 1º de Dezembro, 123 1200-359 Lisbon Portugal",q-Px_TUI_zLr93xn-1-Ypw,hotels,Hotels,4.6,23,€€€,38.714837,-9.141188
+Brown's Central,"R. da Assunção, 75 1100-042 Lisbon Portugal",yvbBx06xhwEyvXITlGji5g,hotels,Hotels,4.6,16,€€,38.7115402,-9.1383696
+Sheraton Lisboa Hotel & Spa,"Rua Latino Coelho, 1 1069-025 Lisbon Portugal",9wTTno6WG7cHlXDDZ00EQw,hotels,Hotels,4.2,53,€€€,38.7318001,-9.1470003
+Evolution E.Hotel,"Praça Duque de Saldanha, 4 1050-094 Lisbon Portugal",fmoWlWBqkVeyFpTtcE09RQ,hotels,Hotels,4.6,13,€€,38.733519900691,-9.14409564100038
+Ritz Four Seasons Hotel,"R. Rodrigo da Fonseca, 88 1099-039 Lisbon Portugal",DPkYK5RwCkAULtLJp7pOmA,hotels,Hotels,4.6,24,€€€€,38.7255172,-9.1552052
+Palacete Chafariz D'El Rei,"Tv. Chafariz del Rei, 6 1100-140 Lisbon Portugal",UYTUME7WRO3Pz2ZiWaHCvQ,hotels,Hotels,4.6,7,€€,38.709807519607,-9.12956923309817
+Hotel da Baixa,"R. da Prata, 231 1100-417 Lisbon Portugal",UNpztKHSE0A4iXnvDr2t1g,hotels,Hotels,4.4,14,€€,38.71216,-9.13752
+Pestana CR7 Lisboa,"R. do Comércio, 54 1100-150 Lisbon Portugal",kRJ7hWBHNyItC1R3s36utQ,hotels,Hotels,4.5,6,€€€,38.70916,-9.13595
+LX - Boutique Hotel,"Rua Do Alecrim, 12 1200-017 Lisbon Portugal",oWpzjQrPE02mTTqb3-QuRA,hotels,Hotels,4.5,13,€€,38.7070276,-9.143373
+Pousada de Lisboa,"Praça do Comércio, 31-34 1100-148 Lisbon Portugal",kvFNVAOHH1MEP_2uJcO1Pg,guesthouses,Guest Houses,4.7,7,,38.7082347,-9.1378503
+Bairro Alto Hotel,"Praça Luís de Camões,  2 1200-243 Lisbon Portugal",73rCWP_Cgj5c13bPm82IsQ,hotels,Hotels,4.1,17,€€,38.7103081,-9.1431503
+Heritage Avenida Liberdade Hotel,"Av. da Liberdade, 28 1250-145 Lisbon Portugal",lIgc3taoaT4ZForepyUTqw,hotels,Hotels,4.6,8,€€€,38.7176112,-9.1427707
+Lapa Palace Hotel,"Rua Pau de Bandeira, 4 1249-021 Lisbon Portugal",Dds8XUKMlB6bmW3wHfyxtQ,hotels,Hotels,4.8,12,€€€,38.7068291,-9.1638298
+Pestana Palace Lisboa,"R. Jau, 54 1300-314 Lisbon Portugal",jBtK8qVZ-KlH37_NhIlaQw,hotels,Hotels,4.4,17,€€€€,38.703699,-9.18667
+DoubleTree by Hilton Hotel Lisbon - Fontana Park,"R. Engenheiro Vieira da Silva, 2 1050-105 Lisbon Portugal",Yk6x3GErEUH9vXxdzmO5nQ,hotels,Hotels,3.4,32,€€,38.731272,-9.143995
+InterContinental Lisbon,"R. Castelho, 149 1099-034 Lisbon Portugal",Ymx-nnEENCvo55ExfLpMiw,hotels,Hotels,4.1,17,€€€,38.726799,-9.155437
+Lisbon Marriott Hotel,Avenida dos Combatentes 45 1600-042 Lisbon Portugal,1mkAYR_AlZeM_IkPmk-68A,hotels,Hotels,3.0,29,€€€,38.7469852543174,-9.16399476950244
+Hotel Sofitel Lisbon Liberdade,Avenida Da Liberdade 127 1269-038 Lisbon Portugal,H9Q1sJ0t4AZpJRM1DvOs3w,hotels,Hotels,3.8,27,€€€,38.7188,-9.14489
+Tivoli Avenida Liberdade Lisboa,"Av. da Liberdade, 185 1269-050 Lisbon Portugal",b6bSO7KZQde5JdPem99RUg,hotels,Hotels,4.0,28,€€€,38.721,-9.146965
+Memmo Alfama,Travessa das Merceeiras 27 1100-348 Lisbon Portugal,3SPxa90mdRwMLdIySZFMsw,hotels,Hotels,4.2,27,€€,38.7103348,-9.130806
+Lisboa Carmo Hotel,"R. da Oliveira ao Carmo, 1-3 1200-307 Lisbon Portugal",nwBdT3UNgxwPc4-inOGkSw,hotels,Hotels,4.4,13,€€,38.712221,-9.141235
+Hotel Santa Justa,Rua dos Correeiros 204 1100-170 Lisbon Portugal,9C4j9wot_OZgHx-LSzIg8w,hotels,Hotels,4.7,18,€€,38.7124676,-9.1379317
+Corinthia Lisbon,"Av. Columbano Bordalo Pinheiro, 105 1099-031 Lisbon Portugal",j7aSumyYuKkLP1ZjrUUhMA,hotels,Hotels,4.2,29,€€€,38.7386055,-9.1665029
+Hotel Holliday Inn Lisbon - Continental,"Rua Laura Alves, 9 1069-169 Lisbon Portugal",kz1oo1jVegg-9vWz3xfpKQ,hotels,Hotels,3.5,8,€€,38.7413101,-9.1498299
+Corpo Santo Lisbon Historical Hotel,"Largo do Corpo Santo, 25 1200-129 Lisbon Portugal",CW1gOMTDC5ZBnErrGx0yxw,hotels,Hotels,4.8,20,,38.707319,-9.142059
+As Janelas Verdes,"R. das Janelas Verdes, 47 1200-690 Lisbon Portugal",-A0Yvm5x9xoTiExHJPseEA,hotels,Hotels,4.6,8,€€€,38.705457,-9.160237
+Júpiter Lisboa Hotel,"Av. da República, 46 1050-195 Lisbon Portugal",VjsO6GrOQDoC1qrF4cjJ6w,hotels,Hotels,4.4,8,€€€,38.73948,-9.14586
+Olissipo Oriente,"Av. D. João II, Lote 1.03.2.2 1990-083 Lisbon Portugal",_hWiNWd-EG5TTu3RvTxGWg,hotels,Hotels,4.3,4,,38.7649276867058,-9.09779600150262
+Santiago de Alfama - Boutique Hotel,"R. de Santiago, 10-14 1100-494 Lisbon Portugal",ud5jr6GocT-v6_BOSqtCtg,hotels,Hotels,5.0,1,,38.711419,-9.131216
+Tivoli Hotel,"Av. Dom Joao II, 27 Parque das Nações 1990-083 Lisbon Portugal",015YBPHeyIgjITEVjZShfA,hotels,Hotels,3.5,11,€€,38.766702,-9.0982
+Rossio Hostel,"Calçada do Carmo nº 6, 2 dto 1200-091 Lisbon Portugal",NJD2cy2VwKQighP2E9uJSw,hotels,Hotels,5.0,4,€,38.7130805,-9.1409173
+Hotel 1908,Av. Alm. Reis 6 1150-041 Lisbon Portugal,cVgaf5yAQgvVlz1L4EROMw,hotels,Hotels,3.7,7,,38.7207961265291,-9.13531264669046
+Hotel Star inn Lisbon,"R. C, 125 1749-125 Lisbon Portugal",VDqVJhqbM-ot8rhvJY6N-g,hotels,Hotels,4.2,16,,38.7707945,-9.12548
+Internacional Design Hotel,"R. da Betesga, 3 1100-090 Lisbon Portugal",KNBeo2aSxXtuMLJy9nkldg,hotels,Hotels,4.4,14,€€€€,38.71305,-9.13843
+Casa do Barao,"Rua da Emenda, 84 1200-170 Lisbon Portugal",fqcQXRz10yK6u-NAS-p1lQ,bedbreakfast,Bed & Breakfast,5.0,2,,38.7098999,-9.1443396
+Holiday Inn Express,"R. Guiné, 18 2685-334 Lisbon Portugal",fU7Bg--A-3ndcgslmVMA7A,hotels,Hotels,3.0,4,€€€,38.785994,-9.120448
+Radisson Blu Lisboa,"Avenida Marechal Craveiro Lopes, 390 1749-009 Lisbon Portugal",3twhTZpt-FdKNUw3pOti6A,hotels,Hotels,2.6,14,€€,38.7595589,-9.1537167
+HF Fénix Urban,"Av. António Augusto de Aguiar, 14 1050-016 Lisbon Portugal",jZB4itjaySaxsJredM-QUg,hotels,Hotels,4.5,4,€€€,38.728685,-9.148878
+The Lumiares Hotel & Spa,"R. do Diário de Notícias, 142 1200-146 Lisbon Portugal",hLOIMUqiZpYmXq7Re_vhCg,hotels,Hotels,4.0,8,,38.713872,-9.144452
+My Story Ouro,"Rua Áurea, 100 1100-063 Lisbon Portugal",LlxwyFGwEW9IpRaDIXWefw,hotels,Hotels,3.7,18,€€,38.7099419,-9.1381798
+Holiday Inn,"Av. Antonio Jose De Almeida, 28 1000-044 Lisbon Portugal",gLS7NknLeHkeQWA28xmtyw,hotels,Hotels,2.3,8,€€,38.738228,-9.141406
+Brown's Boutique Hotel,"R. da Vitória, 88 1100-619 Lisbon Portugal",MnYLrGHe8ajtDWkDFa3O6A,hotels,Hotels,4.3,4,,38.710927,-9.138282
+SANA Metropolitan Hotel,"R. Soeiro Pereira Gomes, 2 1600-198 Lisbon Portugal",UMno67AjmqSKXX6xY5TmMA,hotels,Hotels,3.7,9,€€€,38.7454451129965,-9.15989809893509
+Hotel H10,"Av. Duque de Loulé, 81 1050-088 Lisbon Portugal",VBEE8AojX0VPAjJ54Cn2ig,hotels,Hotels,3.6,8,€€,38.7265172783164,-9.14702408015728
+Holiday Inn Express,"R. Alexandre Herculano, 40 1250-011 Lisbon Portugal",fQ5jbSMa2Mu2ozdDhKmx6Q,hotels,Hotels,4.0,5,€€,38.7224590187567,-9.15038488805294
+BessaHotel Liberdade,"Av. da Liberdade, 29 1250-139 Lisbon Portugal",OBD52Csk5Lw5dgEYve2Ydw,hotels,Hotels,3.3,10,€€€,38.7169390017093,-9.14339166074797
+Hotel Mundial,"Praça Martim Moniz, 2 1100-341 Lisbon Portugal",fAP3R5sOEZPbSmpm3p4XzQ,hotels,Hotels,3.4,26,€€,38.714926,-9.136812
+AlmaLusa,"Praça do Munícipio, 20 1100-365 Lisbon Portugal",hA7Hy6TujgtRZNgx1kZhDQ,hotels,Hotels,4.1,9,,38.708272,-9.139711
+Hotel Portugal,"Rua João das Regras, 4 1100-294 Lisbon Portugal",B7aWwEPmGZWdW3oed6bA6A,hotels,Hotels,4.2,13,€€,38.7144439,-9.1367034
+HF Fénix Lisboa,"Praça Marquês de Pombal, 8 1269-133 Lisbon Portugal",KYqeFglUCBFl6haPhoSnug,hotels,Hotels,3.7,7,€€€,38.7249780699456,-9.15112548783566
+Hotel Borges Chiado,"R. Garrett, 108 1200-205 Lisbon Portugal",HCZj5nOjNSmSKwHydBRwnw,hotels,Hotels,2.0,5,€€,38.710692,-9.141924
+Hotel NH Lisboa Campo Grande,"Campo Grande, 7 1700-087 Lisbon Portugal",qLN6VZB2fUukrEqMfUdRfA,hotels,Hotels,3.5,4,€€,38.748724,-9.149642
+Epic Sana Lisboa Hotel,"Av. Engenheiro Duarte Pacheco, 15 1070-100 Lisbon Portugal",ZWb3O242ppcifr7mkX0XXA,hotels,Hotels,4.4,17,€€€,38.72453,-9.15854
+Solar do Castelo,"R. das Cozinhas, 2 1100-181 Lisbon Portugal",vGjfnemXAsRkzLWF8_YpLw,hotels,Hotels,5.0,2,€€€,38.713105,-9.133467
+VIP Executive Art's Hotel,"Av. D. João II, 47 1998-028 Lisbon Portugal",gObbdCVsv0A5Fch_OdZhGg,hotels,Hotels,3.5,11,€€,38.773098,-9.097691
+Hotel do Chiado,"R. Nova do Almada, 114 1200-290 Lisbon Portugal",DLZsjWaKWdfKnYfkfwpnWQ,hotels,Hotels,3.5,11,€€€,38.710703,-9.139492
+Altis Belém Hotel & Spa,Doca do Bom Sucesso 1400-048 Lisbon Portugal,wfVzs2-GS_Ah-zQkAa8PZg,hotels,Hotels,4.0,10,€€€,38.6934314838451,-9.21078906761469
+Hotel NH Collection Lisboa Liberdade,"Av. da Liberdade, 180 B 1250-146 Lisbon Portugal",RJ-gwHATiSQoXF0HJoPUMA,hotels,Hotels,4.0,8,€€€,38.720236,-9.144889
+Hotel MELIÃ Aldeia dos Capuchos,L. Aldeia dos Capuchos 2825-008 Almada Portugal,vOVGNz4HYJ8S09X41eZaPQ,realestateagents,Real Estate Agents,3.0,2,,38.648201,-9.2242498
+Ibis Parque Das Nacoes,"Av. Dom João Ii, 11701 1990-203 Lisbon Portugal",LH8zpDwkFasFnbMaJQOdOQ,hotels,Hotels,4.0,3,€€,38.7727661,-9.0977421
+Valverde Hotel,"Av. da Liberdade, 164 1250-146 Lisbon Portugal",hd5mo2R3uo3lRAcIIzgMTA,hotels,Hotels,3.4,7,€€€,38.7196635725252,-9.14433238264552
+Holiday Inn Express,"R. da Quinta do Paizinho, 11 2790-236 Carnaxide Portugal",tNkH0rj1ElRB6LIskSZQrA,hotels,Hotels,3.0,1,€€,38.7222866389809,-9.21753063797951
+Hotel Açores,"Avenida Columbano Bordalo Pinheiro, 3 1070-060 Lisbon Portugal",e6NP1PBZxat0wrbXTfZUqg,hotels,Hotels,3.8,4,€€€,38.7376151,-9.1597088
+Mercure Lisboa,"Av. Jose Malhoa, 23 1099-051 Lisbon Portugal",Ik1qNmBUEKRBNcvw-3mW2w,hotels,Hotels,2.3,3,€€€,38.7377014,-9.1658716
+Olissippo Saldanha,"Av. Praia da Vitória, 30 1000-248 Lisbon Portugal",ylkhfFpBYECQ4doyTvR59Q,hotels,Hotels,3.3,3,,38.7340679,-9.14346
+Marriot Hotels International B.V. Sucursal,Av. Combatentes 1600-000 Lisbon Portugal,EVNkWrxhekgbFFL4s1979w,hotels,Hotels,1.0,1,,38.7469101,-9.1629696
+Novotel Lisboa,"Av. José Malhoa, 1 1099-051 Lisbon Portugal",tJ4NnMzgGdZgE2iR08dFVQ,hotels,Hotels,3.2,6,€€,38.736384300509,-9.16204854157193
+Holiday Inn Express,"Av. João Crisóstomo, 40-42 1050-162 Lisbon Portugal",jfxwV5kgiaJH17cxY5Dtwg,hotels,Hotels,4.6,5,,38.7360409238028,-9.14851874113083
+Hotel Lisboa,"R. Barata Salgueiro, 5 1169-066 Lisbon Portugal",F_IBrPSZvkkwAs_eCpkuvQ,hotels,Hotels,3.6,5,€€,38.7222404,-9.1463699
+Hotel da Estrela,"Rua Saraiva de Carvalho, 35 1250-242 Lisbon Portugal",Tu6tNjeu37DxhTvIZVnFeQ,hotels,Hotels,4.3,10,€€,38.7174566,-9.1595007
+Hotel Alicante,Av. Duque Loulé 20 1050-090 Lisbon Portugal,-gPD6iYgH-Qmn4uPryHGdQ,hotels,Hotels,4.0,1,,38.7288,-9.14455
+Rooftop at The Art Inn,"R. 1º de Dezembro, 31 1200-357 Lisbon Portugal",Q7i_PTpItlxi_sJigKw4qA,hotels,Hotels,3.6,5,€€€€,38.713092,-9.140017
+Brown's Downtown,"Rua dos Sapateiros, 73 1100-042 Lisbon Portugal",UtoJY2lnHIEOJOhyYrqKhw,hotels,Hotels,3.2,10,€€,38.7105392982766,-9.13809561379084
+cheap hotels,Avenida Fontes Pereira de Melo  47 Lisbon Portugal,2RmBbuDvgn_QyjxyGj85Jg,bars,Bars,5.0,1,€,38.7327744,-9.1456819
+Hotel Lux lisboa Park,R. Padre António Vieira 32 1070-015 Lisbon Portugal,t9zu3GgtBVQogIYyEamWSQ,hotels,Hotels,4.0,1,€€€,38.72775,-9.15835
+The Vintage Hotel & Spa,"R. Rodrigo da Fonseca, 2 1250-191 Lisbon Portugal",pmA7DXMxOawDkvoyyiGF3w,hotels,Hotels,4.6,7,€€€,38.7200022,-9.1505303
+Hotel Dom Carlos Liberty,"R. Alexandre Herculano, 13 1150-005 Lisbon Portugal",DHxMzz8RbW1u1E25SBCCCg,hotels,Hotels,3.5,4,,38.7236099,-9.1474705
+Residencial Horizonte,"Av. António Augusto de Aguiar, 42 6º 1050-016 Lisbon Portugal",zw7Ui5fWYtpHEb3I6whdMA,hotels,Hotels,3.0,2,€€,38.7300682,-9.1500797
+9Hotel Mercy,"R. da Misericórdia, 76 1200-273 Lisbon Portugal",JopTbqOH6jVuMv-Oj6NP9Q,hotels,Hotels,3.3,10,€€,38.7123666,-9.1429633
+"Fontecruz Lisboa, Autograph Collection",Avenida da Liberdade 138-142 1250-001 Lisbon Portugal,1D4-pyl1i0MhDOXqv57RIg,hotels,Hotels,4.0,26,€€€,38.7192524228744,-9.14403543637491
+Inspira Santa Marta Hotel,"R. de Santa Marta, 48 1150-297 Lisbon Portugal",bx70ixi2639OS7vhDmqkag,hotels,Hotels,4.1,11,€€€,38.72318,-9.14561
+Lisbon Wine Hotel,"R. Portas de Santo Antão, 88 1150-265 Lisbon Portugal",abqCfRI4heBp-IbBtHvnoA,hotels,Hotels,4.9,9,,38.7162999,-9.14045
+Memmo Príncipe Real Hotel,"R. Dom Pedro V, 56 1250-094 Lisbon Portugal",PH_8HKvVeGlZC6btE-6sWw,hotels,Hotels,4.4,7,,38.716227,-9.146092
+Myriad by Sana Hotels,"Cais das Naus, Lote 2.21.01 1990-173 Lisbon Portugal",CXGhjpsDuK0FusDit3iKQw,hotels,Hotels,4.1,10,€€€€,38.7747988088132,-9.0912903904159
+Hotel Botânico,"R. Mãe de Água, 16/20 1250-156 Lisbon Portugal",G6aDuRMpDJGWvFIUC6Tduw,hotels,Hotels,5.0,2,€,38.7173843,-9.1468983
+Hotel Marquês de Pombal,"Av. da Liberdade, 243 1250-143 Lisbon Portugal",M-URexQjVHXeRxQ7csDBFA,hotels,Hotels,4.0,6,€€,38.7233664760433,-9.14893518098563
+Turim,"Av. da Liberdade, 247 1269-170 Lisbon Portugal",wTIfr_azEl9pd6nRGckEBw,hotels,Hotels,3.3,7,€€€,38.7237587,-9.1493702
+TRYP,"R. C, 2 1749-125 Lisbon Portugal",vFM8jBv6Jcc5A2tiIzrlVA,hotels,Hotels,3.0,8,€€,38.76188,-9.13282
+Lagoas Hotel,"Lagoas Park, Ed. 2 2740-265 Oeiras Portugal",83tL5a4qCQBatAuaI0JjIg,bars,Bars,5.0,1,€€€€,38.7119217,-9.3140802
+Hotel White Lisboa,"Av. da República, 9 1050-185 Lisbon Portugal",piXnAYay9BdSW7AsLq_oJg,hotels,Hotels,4.0,1,,38.734863,-9.145515
+Hotel Zenit Lisboa,"Av. 5 de Outubro, 11 1050-047 Lisbon Portugal",Ug1FJQ8fbOcUyogttPte7g,hotels,Hotels,3.3,4,€€,38.7332802,-9.1470804
+Le Consulat,"Plaça Luís de Camões, 22 1249-190 Lisbon Portugal",QIIGuree1Qf6Z68_WcmYnw,hotels,Hotels,4.2,6,,38.7105762476914,-9.14330472937809
+Martinhal Lisbon Chiado Family Suites,"R. das Flores, 44 8135-998 Lisbon Portugal",r0mWN0CoLImlQLqIlop63w,hotels,Hotels,5.0,6,€€€,38.7088277203884,-9.14354231359562
+Casa Dell'Arte,"Campo Santa Clara, 125 São Vicente 1100-473 Lisbon Portugal",gWNTfyGWNL-eIxYHQmR2rg,hotels,Hotels,5.0,3,,38.71558,-9.12609
+Olissippo Marquês de Sá,"Av. Miguel Bombarda, 130 1050-167 Lisbon Portugal",G53t0ZgE0249Z2gBzx9GFQ,hotels,Hotels,2.5,4,,38.736372,-9.15159
+ibis Lisboa José Malhoa,"Av. José Malhoa, 10 1070-158 Lisbon Portugal",vyBp7WBiXSOllCS_tff6FQ,hotels,Hotels,4.0,1,,38.737079,-9.162705
+Hotel Altis,"Rua Castilho, 13 1269-072 Lisbon Portugal",If6go1YXAOH0Zann16KjRw,hotels,Hotels,3.8,18,€€€,38.7210312,-9.1502304
+York House,"Rua das Janelas Verdes, 32 1200-691 Lisbon Portugal",S9KuIF-EioW9OgdoY9ZtHw,hotels,Hotels,4.2,5,€€€€,38.7061353,-9.1592535
+Evidencia Belverde,"Av. de Belverde, 70 2845-483 Amora Portugal",MMzWj2f92xiFerwrC8StOA,hotels,Hotels,5.0,1,€€,38.5998688,-9.1395063
+Turim Lisboa Hotel,"R. Filipe Folque, 20 1050-113 Lisbon Portugal",9SKEvXL3XwdjXA6gwxdjXA,hotels,Hotels,4.0,2,€€,38.7322397,-9.1493643
+Hotel Alegria,"Praça de Alegria, 12 1250-004 Lisbon Portugal",XaLVe_KVlnPW52fcOOKUgg,hotels,Hotels,4.5,8,,38.7175187,-9.1449495
+AVANI Avenida Liberdade Lisbon,"R. Júlio César Machado, 7-9 1250-135 Lisbon Portugal",JUoh6RTTV1gKKGZdfwfRsQ,hotels,Hotels,1.0,1,,38.720392,-9.147377
+Hotel Lisboa Plaza,"Tv. do Salitre, 7 1269-066 Lisbon Portugal",w2NVajknvu8XXiGkD8gB1g,hotels,Hotels,4.1,7,€€,38.71886,-9.145466
+Hotel Alif Avenidas,"Av. Duque de Ávila, 189 1050-082 Lisbon Portugal",A4Nvzuex1kZMytvjmiWVDg,hotels,Hotels,5.0,1,€€,38.73489,-9.1504602
+SANA Malhoa Hotel,"Av. José Malhoa, 8 1099-089 Lisbon Portugal",iQ2V-XUFa6FjAGGEDEABBw,hotels,Hotels,3.5,4,€€€,38.7369717,-9.162401
+Residencial Setubalense,"Rua Belém, 28 1300-084 Lisbon Portugal",zTXn6HH9lTcjyMB3d8Zp1g,hotels,Hotels,3.7,3,€,38.6973819,-9.2022959
+The Pessoa,Largo do Carmo 1200-092 Lisbon Portugal,9He0PixiE3FKvASaGEwtRA,guesthouses,Guest Houses,1.0,1,,38.71173,-9.14099
+Nazareth,"Av. António Augusto de Aguiar, 25 1050-012 Lisbon Portugal",V-D1iSWHMvZiBAamt5DasQ,hotels,Hotels,4.0,1,€€,38.7315903,-9.1518602
+Real Palácio Hotel,"R. Tomás Ribeiro, 115 1050-228 Lisbon Portugal",2wk5LXoh_gwkGSKg_3YvlQ,hotels,Hotels,2.5,15,€€€,38.732208,-9.150777
+Casual Belle Époque Lisboa,"R. da Madalena, 125 1100-319 Lisbon Portugal",kPWKh6dUSQKm-zZFl5PLUQ,hotels,Hotels,3.0,2,,38.711001,-9.1356701
+Hotel Roma,"Av. de Roma, 33 1749-074 Lisbon Portugal",c5LnoWfP37u9gxCWSGXgGA,hotels,Hotels,3.4,13,€€,38.74574,-9.14026
+Lisbon City Hotel,"Av. Almirante Reis, 49 1150-010 Lisbon Portugal",Aeu0o-3KNSmx9kzI2fWbWA,hotels,Hotels,3.3,6,,38.7247464,-9.135263
+Vip Inn Berna,"Av. António de Serpa,13 1069-199 Lisbon Portugal",NA45h6CMod6216LCrYxdxw,hotels,Hotels,3.0,6,,38.7429695,-9.1481895
+Eurostars Lisboa Parque,"Largo Andaluz, 13 1050-121 Lisbon Portugal",nLJ70k-y4dpWmRetVa-KeQ,hotels,Hotels,4.0,2,,38.728213,-9.14771
+Vip Grand Lisboa Hotel & Spa,"Av. 5 de Outubro, 197 1050-054 Lisbon Portugal",9e52Aom0CwOw0zMA-CcUrg,hotels,Hotels,3.3,11,€€€,38.7422409,-9.14925
+Vila Galé Opera Hotel,Travessa conde da Ponte 1300-141 Lisbon Portugal,zHUB3DooQANtfVz6_cuF9w,hotels,Hotels,4.2,6,€€€,38.7002546,-9.1807855
+Raw Culture Lofts Bairro Alto,"R. das Gáveas, 103 Alto 1200-206 Lisbon Portugal",bSR868URbwvXnE6VO9VCrQ,hotels,Hotels,5.0,1,,38.712853,-9.143535
+Hotel Convento do Salvador,"R. do Salvador, 2B Alfama 1100-465 Lisbon Portugal",JBx1reb1QcEkewjZrwlOQQ,hotels,Hotels,4.7,3,,38.712768,-9.130029
+Vip Executive Marquês Aparthotel,"Av. Duque de Loulé, 45 1050-086 Lisbon Portugal",4XyDrTo8ozcdAFtPv38E_g,vacation_rentals,Vacation Rentals,1.0,1,,38.72801,-9.14502
+Verride Palácio Santa Catarina,"R. de Santa Catarina, 1 1200-401 Lisbon Portugal",p-gr_PeSlDbQGzYzbhohcQ,hotels,Hotels,5.0,2,,38.7096918485244,-9.14739568161463
+The Beautique Hotels Figueira,"Praça da Figueira, 16 1100-241 Lisbon Portugal",Ep2nQZBwJRRzBP4cWwi4Xg,hotels,Hotels,3.9,12,€€€€,38.7132607,-9.1375399
+H2S - Home2Students,"Av. Miguel Bombarda, 70 3º 1050-166 Lisbon Portugal",UEvbuZwOqguHoeOomEg2-w,realestateagents,Real Estate Agents,1.0,1,,38.7367401,-9.1498699
+Riviera Hotel,"R. Bartolomeu Dias, s/n Junqueiro 2775-551 Carcavelos Portugal",hz3ARYHjpr78xhqdlrTChA,hotels,Hotels,4.0,1,€€,38.68477,-9.34365
+Hotel Diplomático,Rua Castilho 74 1250-071 Lisbon Portugal,KwefM59nUgpz1oIa5YVhlw,hotels,Hotels,3.0,1,,38.7244977,-9.1528035
+Hotel 3K Europa,"Avenida da República, 93 1050-190 Lisbon Portugal",qq-Cs23bfaM-iO6q2c1mxg,hotels,Hotels,3.5,4,€€€,38.7438698,-9.1475401
+The Lisbonaire,Rua da Glória 16 1250-116 Lisbon Portugal,rGRwkM0PPRKTgvFHagdpVw,vacation_rentals,Vacation Rentals,4.7,6,,38.7165565,-9.1436722
+Palácio Ramalhete,Rua das Janelas Verdes 92 1200-692 Lisbon Portugal,FLsNYiop2cmH5rS04dFFAA,hotels,Hotels,5.0,4,€€€,38.7054584,-9.1605547
+Teatro B&B,"Rua da Trindade, 36 1200-467 Lisbon Portugal",GB_YVgEKwhkdsuicjY4_1w,bedbreakfast,Bed & Breakfast,4.4,7,€€,38.7118974,-9.1420856
+Lisbon Short Stay,"Rua dos Sapateiros, 158 1100-580 Lisbon Portugal",snieS5SgwFVI8AS4v6JZmA,hotels,Hotels,4.4,9,€€,38.7117881,-9.1384933
+Aparthotel Vip Eden,Praça dos Restauradores 24 1250-187 Lisbon Portugal,KXWAoGEVJAdNnU30iBBTvQ,hotels,Hotels,4.5,4,€€,38.7161,-9.14225
+Vincci Baixa,"Rua do Comércio, 32-38 1100-150 Lisbon Portugal",U20ybTR0yXkRrjpXYkPY3w,hotels,Hotels,4.0,1,€€€,38.7092233,-9.135553
+Turim Alameda,Av. Rovisco Pais 34 1000-268 Lisbon Portugal,e65ge0YP1I8FRzRSPvA4xQ,hotels,Hotels,4.0,1,,38.7354399,-9.13763
+Rossio Boutique Hotel,"R. Barros Queirós, 31 1100-076 Lisbon Portugal",2br-Hru6gwn1BzVIgTIijA,hotels,Hotels,3.3,3,,38.71494,-9.13832
+Lisbon Colours,"Travessa da Queimada, 44 Lisbon Portugal",8gynJfPXFO8RjqK1ImYsIw,hotels,Hotels,3.0,2,€€,38.7128716,-9.1447296
+behotelisboa,"R. dos Correeiros, 136 1100-168 Lisbon Portugal",gaRcw3lcK5trqYwUFtVOwA,hotels,Hotels,4.2,5,,38.71162,-9.13756
+Dom Pedro Palace,"Av. Engenheiro Duarte Pacheco, 24 1070-110 Lisbon Portugal",OsGOl9emBSsiIEy9q2ihXA,hotels,Hotels,4.0,12,€€€,38.7247333997066,-9.16030598591385
+Hotel Dom Carlos Park,"Av. Duque de Loulé, 121 1050-089 Lisbon Portugal",uWdu6aSN036ckD6qlCnKMw,hotels,Hotels,3.0,1,€€,38.7256889,-9.1480598
+Casa do Bairro by Shiadu,"Beco do Caldeira, 1 1200-083 Lisbon Portugal",ZMcxMAFUariXIXqb8CgAqw,guesthouses,Guest Houses,4.0,2,,38.70927,-9.150502
+Hotel PortoBay Liberdade,"R. Rosa Araújo, 8 1250-195 Lisbon Portugal",mKRIt5UqHOSDYQTNPv2BMg,hotels,Hotels,4.5,6,€€€,38.72219,-9.14888
+Hotel Altis Avenida,"R. 1º Dezembro, 120 1200-360 Lisbon Portugal",DJgHLPzLclLpAp-_JnE7jA,hotels,Hotels,4.2,9,€€€,38.715085,-9.140767
+Lutécia,"Av. de Frei Miguel Contreiras, 52 1700-213 Lisbon Portugal",E3dR_DJ4ux1qBeAVIQPwOA,hotels,Hotels,3.2,9,€€,38.74602,-9.13896
+Turim Terreiro do Paço,"R. do Comércio, 9 1100-149 Lisbon Portugal",MEiBpEXNhw6FaxX1n9gQSg,hotels,Hotels,3.3,3,€€€,38.709167,-9.135061
+Torel Palace,"Rua Câmara pestana, 23 Lisbon Portugal",rHtY02rZl2GUVVHcoFUlfA,bedbreakfast,Bed & Breakfast,2.3,3,,38.7179291341395,-9.14005492896806
+Lisbon Lounge Hotel,"Rua São Nicolau, 41 1100-547 Lisbon Portugal",94Xd6GUngQ8IB7e3ww2P4g,hotels,Hotels,5.0,2,,38.7103767,-9.1369219
+TRYP Lisboa Caparica Mar,"Av. Gen. Humberto Delgado, 47 2829-506 Costa da Caparica Portugal",Ni-H5odi0iPh077OZgMrBQ,hotels,Hotels,2.0,2,,38.64337,-9.23778
+Hotel As Lisboa,"Av. Almirante Reis, 188 1000-055 Lisbon Portugal",XieXK380bk1DgOMzVJrhbQ,hotels,Hotels,2.0,1,€€,38.737595634743,-9.13362236004946
+Sana Lisboa Hotel,"Av. Fontes Pereira de Melo, 8 Lisbon Portugal",UNBG8QgvPJJMmbKJhs70zg,hotels,Hotels,4.5,8,€€€,38.7270721,-9.1486144
+TRYP  Oriente,Avenida Dom João II 1990-083 Lisbon Portugal,EV2FHFqvMmW2j37EFDiOkw,hotels,Hotels,3.6,10,€€,38.76942187,-9.09804697
+Rossio Garden,"Rua Jardim do Regedor, 24 1150-194 Lisbon Portugal",Ydmp0bv8rpmHsuBcSAo_tA,hotels,Hotels,3.4,5,€€,38.7157560221216,-9.14033095948592
+Home Lisbon Hostel,"Rua de São Nicolau, 13, 2°Esq., 1100-547 Lisbon Portugal",o8zUAkYhk4jNNWU2n6y34w,bedbreakfast,Bed & Breakfast,4.3,16,,38.7104443,-9.1366973
+Residencial Lar do Areeiro,"Pça. Francisco Sá Carneiro, 4 1000-159 Lisbon Portugal",PGc5eitSx0P1_8TAZrRAwQ,guesthouses,Guest Houses,2.5,4,,38.7420502,-9.1339903
+Exe Liberdade,"Av. Duque de Loulé, 124 1050-093 Lisbon Portugal",p6vvtvMS_vS0j5TqdwlXIw,hotels,Hotels,4.4,5,,38.726123102335,-9.1480765119195
+VIP Executive Picoas Hotel,"R. Filipe Folque, 12 1069-191 Lisbon Portugal",BAkLHeoo9Q2Zws0s8XzfoQ,hotels,Hotels,5.0,3,,38.731832,-9.149708
+Residencial Valentina,"Calç. da Estrela, 27 1º 1200-661 Lisbon Portugal",-jRm0HZitHkgIeWpY6gf7g,hotels,Hotels,3.5,2,,38.7113304,-9.1531401
+Feels Like Home Chiado Prime Suites,"Largo da Academia Nacional de Belas Artes, 17 1200-289 Lisbon Portugal",mWOUCKU7GzC7imPDWErDLA,guesthouses,Guest Houses,3.7,3,,38.70852,-9.13994
+Hotel Vip Executive Zurique,"R. Ivone Silva, 18 1050-124 Lisbon Portugal",2O7oZ_7uhL9L09_oFJ0inA,hotels,Hotels,2.5,4,€,38.7428894,-9.1500597
+Hotel Lis,"R. dos Douradores, 146 1100-107 Lisbon Portugal",nZlPNKzqWLQ3649X6Y-4yg,hotels,Hotels,2.0,4,€€€,38.712164,-9.13682
+Lar Pascoal de Melo,"R. Pascoal de Melo, 127 B-1 1000-232 Lisbon Portugal",103gRKjPOy6WSukh-i24SQ,hotels,Hotels,3.0,1,€€,38.7315407,-9.1399403
+Empire Lisbon Hotel,"Av. Almirante Reis, 130 1150-023 Lisbon Portugal",mIpX6YzHIdsBasRKE39URw,hotels,Hotels,4.5,2,,38.732373,-9.134264
+Sana Executive,"Avenida Conde Valbom, 56 1050-069 Lisbon Portugal",xWszm4ZmBs64YMGesoNGLQ,hotels,Hotels,3.8,6,€€,38.7368698,-9.1504498
+SANA Reno Hotel,Avenida Duque Ávila 195-197 1050-000 Lisbon Portugal,pX8HygTFVygCY2D06Z1GxA,,,4.5,2,,38.7348869,-9.1508473
+Aquapura Douro Valley,Quinta Da Vale De Abraoo Lisbon Portugal,BExuGekqd19zjQccm4u-Cw,hotels,Hotels,4.0,1,,38.7111511,-9.1503601
+Palácio do Governador,"R. Bartolomeu Dias, 117 1400-030 Lisbon Portugal",_ZBCoK0xNKw3NkQ21XArqg,hotels,Hotels,5.0,1,€€€€,38.6950405,-9.2144062
+The House,"Travessa do Pinheiro, 11 1200-763 Lisbon Portugal",KKrjlxdUl1449alcrPGPNA,bedbreakfast,Bed & Breakfast,3.0,2,,38.71216,-9.1594
+Pet Hotel,"Estrada das Laranjeiras, nº 1 A 1600-140 Lisbon Portugal",elo3Hlpa55Y5lR1EnIeTHA,animalshelters,Animal Shelters,4.0,1,,38.7440707,-9.1675748
+Feeling Chiado 15,Largo do Carmo 15 1200-022 Lisbon Portugal,XesfN49H0gvXlCAa0tupzg,hotels,Hotels,5.0,1,,38.71188090412548,-9.140977835336315
+Hotel Duas Nações,"R. da Vitoria, 41 1100-618 Lisbon Portugal",8JoDlYTeoyOAwdiXENngmg,hotels,Hotels,1.0,3,€€€,38.7109711,-9.1375905
+Vip Executive Villa Rica,"Avenida 5 de Outubro, 295 1600-035 Lisbon Portugal",xyGtzlJabuxCk5X9XvHGyA,hotels,Hotels,3.0,7,,38.7464485,-9.1502705
+Hotel Suites do Marques,Av. Duque de Loule 45 1050-086 Lisbon Portugal,nXtn_dGkfw2LTlC24AUhTg,hotels,Hotels,4.0,1,€€,38.7281,-9.14502
+Hotel Britania,"R. Rodrigues Sampaio, 17 1150-278 Lisbon Portugal",_5PSrfIqOF7I3lU6kipdOQ,hotels,Hotels,4.6,8,€€€,38.7215385,-9.1455498
+Clarion Suites Lisbon,"Rua Rodrigo da Fonseca, 44/50 1250-193 Lisbon Portugal",Mb76UcXEDf23BA-ls59Avg,hotels,Hotels,2.0,1,€€,38.7225494,-9.15273
+My Story Hotel Rossio,"Praça Dom Pedro IV, 59 1100-200 Lisbon Portugal",NeLujd9SRY_QKgmVbhbuKA,hotels,Hotels,3.8,6,,38.71417,-9.14013
+Ibis Saldanha,"Av. Casal Ribeiro, 23 1000-090 Lisbon Portugal",AVRA4b8NoJfyGomL36aAPg,hotels,Hotels,3.8,4,,38.732573,-9.1425914
+Hotel Jerónimos 8,"Rua dos Jerónimos, 8 1400-211 Lisbon Portugal",W4Mq62AKBL0Agz14NpOG0Q,hotels,Hotels,4.0,2,€€,38.6983528,-9.2048607
+Hotel do Chile,"R. de António Pedro, 40 1000-039 Lisbon Portugal",8R5Let0C0xBhXX4e3AVUow,guesthouses,Guest Houses,3.0,1,,38.7315216,-9.13517
+Hotel 3K Madrid,Rua Conde Redondo 24 1150-106 Lisbon Portugal,7lduJ93g2zY6rBC94fF9Pg,hotels,Hotels,2.0,2,€€€,38.7270383,-9.1446298
+Pousada Palácio de Queluz,Largo do Palácio Nacional 2745-191 Queluz Portugal,MK7E3CGNm-fQ9yu193suHQ,guesthouses,Guest Houses,5.0,1,,38.750863,-9.257545
+Yes! Lisbon Hostel,"Rua de São Julião, 148 1100-527 Lisbon Portugal",9SlpmJRZhbit0AxiEwh7Sw,vacation_rentals,Vacation Rentals,4.9,20,,38.709121,-9.1377062
+Lisboa Prata Boutique Hotel,"R. da Prata, 116 1100-420 Lisbon Portugal",Ocr38bEw6Y_HFfgZzQm1pQ,hotels,Hotels,4.3,3,€€€,38.7106075,-9.1366691
+Hotel Florida,"Rua Duque de Palmela, 34 1250-098 Lisbon Portugal",iARH0E8d9aTgeZi3p7gVhw,hotels,Hotels,4.0,3,€€,38.7240791,-9.15028
+The Lisboans Apartments,"Travessa do Almada, 9 1100-500 Lisbon Portugal",khjtji8mBm_nzqVaNkavqg,vacation_rentals,Vacation Rentals,4.0,4,,38.7106,-9.13485
+Otília Hotel & Apartamentos,"R. dos Corrieiros, 71 1100-161 Lisbon Portugal",Jx96lnmcIGUim1ZKwrC6Kw,realestateagents,Real Estate Agents,4.0,1,€€,38.7107086,-9.1373501
+Ramada By Wyndham Lisbon,"Av. Eng. Arantes e Oliveira, 9 1900-221 Lisbon Portugal",gRyLEYnGDckZYsDXl7Lirg,hotels,Hotels,4.0,1,€€,38.73961,-9.124173
+A Floresta de Moscavide II,"R. do Almirante Gago Coutinho, 12A 1885-035 Loures Portugal",LoRz27RUAwGj9VWv7JFc3w,bakeries,Bakeries,4.0,2,€€,38.7758484,-9.1035805
+The Late Birds,"Travessa André Valente, 21-21 1200-024 Lisbon Portugal",7WvTrt8qQYCqUvz45O5N7Q,guesthouses,Guest Houses,5.0,4,,38.7115402,-9.1476498
+Radio-Hotel,Travessa Conde da Ponte 12 1300-141 Lisbon Portugal,cYZGiVo_-Wds7eqQuEZnBg,danceclubs,Dance Clubs,3.3,4,€€,38.7005164,-9.1809523
+My Story Hotel Tejo,"R. dos Condes de Monsanto, 2 1100-159 Lisbon Portugal",dZYtbmkmPuNDd0I_F3KnPw,hotels,Hotels,3.3,3,€€,38.7136,-9.13676
+Real Parque Hotel,"Av. Luís Bívar, 67 1069-146 Lisbon Portugal",E086ZFFxKD6tm-lrhsH1wg,hotels,Hotels,3.5,6,€€,38.733378,-9.150272
+Maxime Hotel,"Praça da Alegria, 58 1250-004 Lisbon Portugal",WtW6jFXWwhQAYd4v_aiU2g,hotels,Hotels,4.7,3,,38.7183217,-9.1453236
+Casa Balthazar,Rua do Duque 22 1200-159 Lisbon Portugal,vqIOh4-D7iOW2oXdpRtPbg,hotels,Hotels,4.2,6,€€€,38.7131562,-9.1414217
+Hotel 3K Barcelona,Rua Laura Alves 10 1050-138 Lisbon Portugal,SZKSXoQTCw52QhENEXuqkQ,,,3.7,3,,38.7409144,-9.1502096
+Quinta Colina by Shiadu,"Calçada de Santana, 200 1150-307 Lisbon Portugal",jYn0ZAdA7RGAwGkUwvN2FQ,guesthouses,Guest Houses,5.0,1,,38.717921,-9.139054
+HF Fénix Music,"R. Joaquim António de Aguiar, 5 1050-010 Lisbon Portugal",J0hJPNVLClf-dNwVlXqR7A,hotels,Hotels,4.2,5,€€€,38.725,-9.1520499
+Villa Baixa Lisbon Luxury Apartments,"R. de Santa Justa, 45 1100-483 Lisbon Portugal",Jtf1Xj6arEiQPkpcdvDxbw,vacation_rentals,Vacation Rentals,3.0,4,,38.7124499,-9.13773
+Be Poet Baixa Hotel,"R. Augusta, 220 1100-056 Lisbon Portugal",rhz2zVCARkg840TeDlpxVQ,hotels,Hotels,5.0,3,,38.711963,-9.13809
+Turim Iberia Hotel,"Avenida 5 de Outubro, 160 1050-062 Lisbon Portugal",SLIGAlax8PfaY5I-3HaZ3A,nightlife,Nightlife,2.5,2,,38.7405058,-9.148376
+Park Atlantic,"Rua Castilho, 149 1070-050 Lisbon Portugal",8YmUCHo0v1-KktPUGM5UTQ,hotels,Hotels,4.0,7,€€€€,38.7266617,-9.1552801
+Feels Like Home Prime Suites Hotel,"Tv. do Sequeiro, 4 1200-441 Lisbon Portugal",wjZwWpuMdES34vKb0Tmpxw,hotels,Hotels,5.0,1,,38.710251,-9.145795
+Acores,"Av. Columbano Bordalo Pinheiro, 3 Lisbon Portugal",-Wqm1XDpxOOr8golqQqvew,hotels,Hotels,4.0,1,€€,38.7382162786574,-9.15926165878773
+Hotel Príncipe Lisboa,"Av. Duque de Ávila, 201 1050-082 Lisbon Portugal",AiCL4HGJ8XZ2kw6FU4b1cA,hotels,Hotels,5.0,3,,38.7348518,-9.1510897
+Lisbon Apartments,"R. Latino Coelho, 50 1050-137 Lisbon Portugal",ILtS-xUHB2x4ilRxVaWlgQ,vacation_rentals,Vacation Rentals,4.0,1,,38.733554,-9.151058
+Lisbon São Bento Hotel,"R. de São Bento, 347 1269-084 Lisbon Portugal",fdgX6bZSdoSaIkDItx4oBg,hotels,Hotels,4.0,1,€€,38.718842095231,-9.15573488920927
+Solar dos Mouros,"R. do Milagre de Santo Antonio, 6 1100-351 Lisbon Portugal",_FXX-dwwhZNBKfKTNc1GWQ,hotels,Hotels,4.0,3,€€,38.711506,-9.133177
+Casa de São Mamede,"R. da Escola Politécnica, 159 1250-100 Lisbon Portugal",elNG9oV8E67lnGDYB2uo0w,hotels,Hotels,4.5,2,,38.71838,-9.15271
+Hotel dos Anjos,"Rua Andrade, 16/18 1170-015 Lisbon Portugal",18lpkPi5gDfjDqslaAIZlA,hotels,Hotels,3.0,1,€€,38.7226181,-9.1337605
+Iberostar Selection Lisboa,"R. Castilho, 64 1250-071 Lisbon Portugal",E2hfAsFUHqFAnst82KpStA,hotels,Hotels,2.6,5,,38.7239823,-9.1523726
+Hotel Gat Rossio,"R. do Jardim do Regedor, 27-35 1150-193 Lisbon Portugal",e4mk7FEyObLZm4lAoqMXmw,hotels,Hotels,4.0,9,€€,38.715469,-9.140525
+Pensão Nova Goa,"R. Arco Marquês de Alegrete, 13 1100-034 Lisbon Portugal",5zdiffJZw1VBPvGISmDcyQ,guesthouses,Guest Houses,2.0,4,,38.7169990539551,-9.13864040374756
+Residencial Florescente,"R. das Portas de Santo Antão, 99 1150-266 Lisbon Portugal",w3-V3EAMOaQ2O2xE7RETVA,hotels,Hotels,3.4,5,,38.7164164,-9.1406826
+Guest House Residencial Casa Belmonte,"Av. Duque de Loulé, 95 5º 1050-089 Lisbon Portugal",POzQucaLzddro7yow552iQ,guesthouses,Guest Houses,3.0,1,,38.7260513,-9.1475897
+Stay Inn Lisbon Hostel,"Rua Luz Soriano, nº19, 1º andar 1200-246 Lisbon Portugal",hljiUkXRNvvd_3QoRZVQxg,hotels,Hotels,4.5,2,€€,38.7121323,-9.1457696
+Hotel Jorge V,"R. Mouzinho da Silveira, 3 1250-165 Lisbon Portugal",xyW68cIhCkWCmvXA2uZr1A,hotels,Hotels,3.0,1,,38.7213707,-9.1493902
+Hall Chiado,"Rua do Alecrim, 45 1200-014 Lisbon Portugal",IqI3neFx7Du2F_vZaX68SQ,hotels,Hotels,4.0,2,€€€,38.7080678,-9.1433973
+Neya Lisboa Hotel,"R. Dona Estefânia, 71-77 1150-132 Lisbon Portugal",3qyzllvEr7x6Iu70P3nf6g,hotels,Hotels,4.0,8,€€,38.72931,-9.14053
+Sana Capitol Hotel,"R. Eça de Queirós, 24 1050-096 Lisbon Portugal",aG6UikiFsn_25LWCye2kAw,hotels,Hotels,3.5,2,€€,38.727211,-9.1480703
+Hotel Miraparque,"Av. Sidónio Pais, 12 1050-214 Lisbon Portugal",HKBPQySeAtk0gVbimEFRBA,hotels,Hotels,3.0,1,€€,38.7276649,-9.1490021
+Restaurante Ta no Papo,"Estr. de Moscavide, 27 1800-277 Lisbon Portugal",8piTM7gakFiUAq9rkG3bkw,hotels,Hotels,3.0,1,€€,38.7739182,-9.1006603
+Ibis,"Rua Barata Salguerio, 53 1250-043 Lisbon Portugal",LyrAoVflo2m0uWuq9IkUxg,hotels,Hotels,2.8,5,,38.7201955,-9.1502289
+Casas da Baixa,Rua de São Julião 23 1100-524 Lisbon Portugal,7btJB1Baqthdc9UCrpwSPQ,hotels,Hotels,4.5,2,€€€,38.7096271,-9.135127
+Hotel Canadá,"Av. Defensores de Chaves, 35 1000-111 Lisbon Portugal",022E6Svd8kMH_2KAlqdBzw,hotels,Hotels,4.0,2,,38.73568,-9.14371
+The Independente Hostel & Suites,"R. de São Pedro de Alcântara, 81 1250-238 Lisbon Portugal",n48C3ZUZkId7Zt4AIXTqFA,hostels,Hostels,3.8,6,,38.7148899,-9.14463
+Edifício Ex Libris,"R. da Misericórdia, 137 1200-242 Lisbon Portugal",VusYMJSrXAHysRjdephsyg,vacation_rentals,Vacation Rentals,4.0,1,,38.71272,-9.14332
+Albergaria Chille,"40, Rua Antonio Pedro 01000 Lisbon Portugal",0FqbV2O11N00DFLwLFV-tg,hotels,Hotels,5.0,1,,38.731513,-9.135289
+Alegria Aos Molhos,"R. da Ribeira Nova, 36 1200-376 Lisbon Portugal",MR1i_eKqFpd_OrHKmjcAZw,professional,Professional Services,5.0,1,,38.7075691,-9.1454897
+Estrela dos Anjos Guest House,Rua dos Anjos 70 Lisboa 1150-039 Lisbon Portugal,lxE12PdwtAg7FbmwWKUzuA,guesthouses,Guest Houses,1.0,1,,38.7248,-9.13602
+Good Morning Hostel,"Praça Restauradores, 65 Lisbon Portugal",gtUWa7FlCf8y4Js_w_4T8g,hostels,Hostels,4.4,10,,38.7155402207389,-9.14126873016357
+Hotel Eurostars das Letras,"R. Castilho, 6-12 1250-069 Lisbon Portugal",0gImdnad0zHv-QUb514LVg,hotels,Hotels,4.2,10,€€,38.7199898,-9.1488504
+Hotel Americano,"Rua Primeiro De Dezembro, 73 Assafora Portugal",k8DMDDSJh_oe4aF-zNSPzw,hotels,Hotels,4.0,1,,38.7133087554982,-9.14005117173356
+Manjerico Alegre,"R. do Terreiro do Trigo, 92 1100-604 Lisbon Portugal",OMJjReMeZmmn8B6X_Au95g,realestateagents,Real Estate Agents,4.8,4,€€,38.7103195,-9.1290398
+The 8 DownTown Suites,"R. da Vitória, 8 1100-228 Lisbon Portugal",CM2i-1EqNq0us0rNeIajug,hotels,Hotels,3.8,4,,38.711395,-9.136457
+Tour Sweet Tours - Animação Turística,"R. do Século, 17 1ºEsq. 1200-433 Lisbon Portugal",o68huHfXtqmnowm8bgwM4g,hotels,Hotels,5.0,1,,38.7114296,-9.1472902
+Amazónia Lisboa Hotel,"Travessa Fábrica dos Pentes, 12 1250-106 Lisbon Portugal",98Vl4nkRw3sw5QnYw4grCQ,hotels,Hotels,1.0,1,€€,38.7229309,-9.1550798
+Hotel Expo Astória,"R. Braamcamp, 10 1250-050 Lisbon Portugal",EspxM6zo_qISJ-LbMx_3Yw,hotels,Hotels,3.4,8,€€,38.72394,-9.15108
+Turim Restauradores Hotel,"R. da Glória, 9 1250-114 Lisbon Portugal",Vzpwe92EuMeNohrhJJdSRQ,hotels,Hotels,3.3,4,€€,38.7161199,-9.14331
+Apartment in Lisbon - Turquoise House,Rua de Cabo Verde 16 Lisbon Portugal,dfbaCNNguqeBTWQowG5IfQ,hotels,Hotels,1.0,1,,38.7222,-9.12625
+"Varanda, Hotel Eduardo VII","Avenida Fontes Pereira de Melo, nº 5, 10º andar 1069-114 Lisbon Portugal",fq78pkHgLAC2lO6wxBQbKA,portuguese,Portuguese,5.0,1,,38.7279051,-9.1487884
+hotel residencia estoril,Lisbon Portugal,keCJeX4b71jeml41tZ2crA,hotels,Hotels,3.5,2,,38.7072,-9.13552
+Quinta da Praia das Fontes,Largo do Marquês de Soydos 2890-032 Alcochete Portugal,gp_XbQaaC_0NYAbLCjdKyg,hotels,Hotels,1.0,1,,39.6799087524414,-7.96866512298584
+Tesouro da Baixa by Shiadu,"R. Dom Duarte, 3 1100-198 Lisbon Portugal",hsbKI1M52LsyJJ695cvO6w,guesthouses,Guest Houses,4.0,7,,38.714551,-9.137536
+Hello Lisbon,"Travessa dos Fiéis de Deus, 34 1200-141 Lisbon Portugal",nw41jSUNSdU5urQwtCTe7A,vacation_rentals,Vacation Rentals,2.0,1,,38.711955,-9.144254
+Casa do Mercado Lisboa,"Calçada de Salvador Correia de Sá, 1 1200-379 Lisbon Portugal",fPfQHF0bofk5K2rEkExiuQ,bedbreakfast,Bed & Breakfast,1.0,1,,38.7084537,-9.1472864
+Bons Dias,Calçada do Carmo 25 5º 1200-016 Lisbon Portugal,rpYoYzbBc1apBsbsoF6qEg,hotels,Hotels,2.0,1,,38.71346,-9.14052
+Grande Pensão Alcobia,"R. Poço do Borratém,15 1100-408 Lisbon Portugal",l2W5Z0j0r1kNlY_n9aHBTQ,hotels,Hotels,3.5,2,,38.71408,-9.13655
+Ever Lisboa,"Av. da Liberdade, 189 1250-141 Lisbon Portugal",iz-LQNeJAZwgj8dyw4H3jA,hotels,Hotels,3.0,1,€€,38.7214182043716,-9.14736842136876
+VIP Executive Suítes Éden,"Praça dos Restauradores, 24 1250-187 Lisbon Portugal",xlUvGYpA35aEVEjeGKr3cA,hotels,Hotels,2.6,5,,38.7157154,-9.1412203
+Pensão Londres,"R. D. Pedro V., 53 2º 1250-092 Lisbon Portugal",UhGthz73WLiLXjEV_R8yrQ,guesthouses,Guest Houses,3.3,4,,38.7155685,-9.1459799
+Hotel Metropole,Praça Dom Pedro IV 30 1100-200 Lisbon Portugal,u4Nr18Agl9tLiV0z7-OxQg,hotels,Hotels,2.0,2,,38.7144808,-9.1393373
+Turim Marquês Hotel,"R. Mouzinho da Silveira, 26 1250-167 Lisbon Portugal",dOp79bY60loxGTdByyWxIw,hotels,Hotels,3.0,2,,38.722949,-9.150382
+Largo da Sé Guest House,"Calçada do Correio Velho, nº3 Lisbon Portugal",bakV-SwtQW3svi8YtRxsRw,hotels,Hotels,5.0,1,,38.7105293,-9.1341696
+Czar Lisbon Hotel,"Av. Almirante Reis, 103 1150-020 Lisbon Portugal",RZHSMuDwO1cQiN9YdOgxUA,hotels,Hotels,4.5,2,,38.7293353,-9.134757
+Pensão Rossio,"R. dos Sapateiros, 173 2.° Esq. 1100-577 Lisbon Portugal",CPU8jOLO5qVX1zrep6OCOw,hotels,Hotels,5.0,1,,38.711969,-9.138702
+Shiado Hostel,"R. Anchieta, 5 1200-023 Lisbon Portugal",XXhSVTPVdKXwJPcEG0LEsw,hotels,Hotels,4.0,4,€€,38.709833,-9.141074
+Pensão São João da Praça,R. Sao Joao da Praça 97 1100-519 Lisbon Portugal,f1VfTQ1qsvOHfsx4n50pfA,guesthouses,Guest Houses,4.0,1,,38.7094859,-9.131876
+Restaurante o Gaveto,"Estr. de Benfica, 387 1500-076 Lisbon Portugal",cVzSYVh5-Tbh7kEO6XHckQ,hotels,Hotels,4.0,1,,38.7450294,-9.1808004
+Happy @ Santos,Calçada marques de Abrantes 97 1200-719 Lisbon Portugal,EWIVrs6yBFZO0V6tK-F4Jw,hotels,Hotels,3.0,1,,38.7077916,-9.1547709
+Hapimag,"R. de São José, 41 1150-321 Lisbon Portugal",eJJDnQ_S-7S-WMfbFOjbSA,resorts,Resorts,4.5,2,,38.7186,-9.14261
+Ferienwohnungen Maria do Ceu Florindo da Silva Zacharias,Rua São Vicente Lisbon Portugal,MszBg4IsdOqZ_S01iDV77w,hotels,Hotels,4.0,1,,38.7147,-9.12908
+Pensão Praça da Figueira,"Travessa Nova de São Domingos, 9 1100-372 Lisbon Portugal",9OlPrcsvw5kwiRRMFGgixQ,hotels,Hotels,4.0,1,,38.714369,-9.137657
+Art Beat Rooms,"Rua de São Nicolau, 23 1100-547 Lisbon Portugal",bu2QZ7i9fOWDN1Mv5hhSxw,hostels,Hostels,4.5,2,,38.7104912,-9.1364403
+Goodnight,"Rua dos Correeiros,113 1100-168 Lisbon Portugal",eLn9GlY3xm19cUNDW1ptQg,hotels,Hotels,4.4,7,€€,38.711327,-9.1375778
+Safira,"Rua da Alegria, 5, 2º 1250-005 Lisbon Portugal",bUshm10f_MIEb17P7aj5ag,hotels,Hotels,4.5,2,,38.7178309,-9.145926
+Living Lounge Hostel,Rua do Crucifixo  116 2eme étage Lisbon Portugal,PewbnvrQpCfwWardKuHMZg,professional,Professional Services,4.8,10,,38.7111,-9.13906
+Casa do Patio by Shiadu,"Tv. do Caldeira, 19 1200-084 Lisbon Portugal",0jBAq6Yq3hTZhj42vAy6KA,guesthouses,Guest Houses,3.0,3,,38.709841,-9.149841
+Residencial Jardim da Amadora,"L. do Major Humberto da Cruz, 3 2700-545 Amadora Portugal",9gHXEDPvCTVaqBx5iyhMGQ,hotels,Hotels,2.0,1,,38.7598915,-9.23351
+Hostel B.A.,"Travessa da Cara, 6 1º 1200-089 Lisbon Portugal",6T8l_3JF1KIs3XmoWLvdlA,hotels,Hotels,4.0,1,,38.7142906,-9.1444101
+Residencial Joao XXI,Rua Gomes Freire 179 1150-177 Lisbon Portugal,uuXFpHAbn48d0umiVHsfBQ,guesthouses,Guest Houses,2.7,3,€€,38.7273886,-9.1421169
+Hostel 4U,"Rua das Pedras Negras, 61 5º 1100-402 Lisbon Portugal",rGrYfpPzBecx3r8s27azdg,hotels,Hotels,3.3,3,€€,38.7108192,-9.1352501
+Lisbon Amazing Hostels Bairro Alto,"Rua do Norte, Nº 83 - 1º 1200-284 Lisbon Portugal",a4x9K2UTSwLdDFe87WxmKg,hotels,Hotels,3.0,1,,38.7120285,-9.1437998
+name,location,Business ID,alias,title,rating,review_count,price,latitude,longitude
+Hotel Avenida Palace,"R. 1º de Dezembro, 123 1200-359 Lisbon Portugal",q-Px_TUI_zLr93xn-1-Ypw,hotels,Hotels,4.6,23,€€€,38.714837,-9.141188
+Brown's Central,"R. da Assunção, 75 1100-042 Lisbon Portugal",yvbBx06xhwEyvXITlGji5g,hotels,Hotels,4.6,16,€€,38.7115402,-9.1383696
+Sheraton Lisboa Hotel & Spa,"Rua Latino Coelho, 1 1069-025 Lisbon Portugal",9wTTno6WG7cHlXDDZ00EQw,hotels,Hotels,4.2,53,€€€,38.7318001,-9.1470003
+Evolution E.Hotel,"Praça Duque de Saldanha, 4 1050-094 Lisbon Portugal",fmoWlWBqkVeyFpTtcE09RQ,hotels,Hotels,4.6,13,€€,38.733519900691,-9.14409564100038
+Ritz Four Seasons Hotel,"R. Rodrigo da Fonseca, 88 1099-039 Lisbon Portugal",DPkYK5RwCkAULtLJp7pOmA,hotels,Hotels,4.6,24,€€€€,38.7255172,-9.1552052
+Palacete Chafariz D'El Rei,"Tv. Chafariz del Rei, 6 1100-140 Lisbon Portugal",UYTUME7WRO3Pz2ZiWaHCvQ,hotels,Hotels,4.6,7,€€,38.709807519607,-9.12956923309817
+Hotel da Baixa,"R. da Prata, 231 1100-417 Lisbon Portugal",UNpztKHSE0A4iXnvDr2t1g,hotels,Hotels,4.4,14,€€,38.71216,-9.13752
+Pestana CR7 Lisboa,"R. do Comércio, 54 1100-150 Lisbon Portugal",kRJ7hWBHNyItC1R3s36utQ,hotels,Hotels,4.5,6,€€€,38.70916,-9.13595
+LX - Boutique Hotel,"Rua Do Alecrim, 12 1200-017 Lisbon Portugal",oWpzjQrPE02mTTqb3-QuRA,hotels,Hotels,4.5,13,€€,38.7070276,-9.143373
+Pousada de Lisboa,"Praça do Comércio, 31-34 1100-148 Lisbon Portugal",kvFNVAOHH1MEP_2uJcO1Pg,guesthouses,Guest Houses,4.7,7,,38.7082347,-9.1378503
+Bairro Alto Hotel,"Praça Luís de Camões,  2 1200-243 Lisbon Portugal",73rCWP_Cgj5c13bPm82IsQ,hotels,Hotels,4.1,17,€€,38.7103081,-9.1431503
+Heritage Avenida Liberdade Hotel,"Av. da Liberdade, 28 1250-145 Lisbon Portugal",lIgc3taoaT4ZForepyUTqw,hotels,Hotels,4.6,8,€€€,38.7176112,-9.1427707
+Lapa Palace Hotel,"Rua Pau de Bandeira, 4 1249-021 Lisbon Portugal",Dds8XUKMlB6bmW3wHfyxtQ,hotels,Hotels,4.8,12,€€€,38.7068291,-9.1638298
+Pestana Palace Lisboa,"R. Jau, 54 1300-314 Lisbon Portugal",jBtK8qVZ-KlH37_NhIlaQw,hotels,Hotels,4.4,17,€€€€,38.703699,-9.18667
+DoubleTree by Hilton Hotel Lisbon - Fontana Park,"R. Engenheiro Vieira da Silva, 2 1050-105 Lisbon Portugal",Yk6x3GErEUH9vXxdzmO5nQ,hotels,Hotels,3.4,32,€€,38.731272,-9.143995
+InterContinental Lisbon,"R. Castelho, 149 1099-034 Lisbon Portugal",Ymx-nnEENCvo55ExfLpMiw,hotels,Hotels,4.1,17,€€€,38.726799,-9.155437
+Lisbon Marriott Hotel,Avenida dos Combatentes 45 1600-042 Lisbon Portugal,1mkAYR_AlZeM_IkPmk-68A,hotels,Hotels,3.0,29,€€€,38.7469852543174,-9.16399476950244
+Hotel Sofitel Lisbon Liberdade,Avenida Da Liberdade 127 1269-038 Lisbon Portugal,H9Q1sJ0t4AZpJRM1DvOs3w,hotels,Hotels,3.8,27,€€€,38.7188,-9.14489
+Tivoli Avenida Liberdade Lisboa,"Av. da Liberdade, 185 1269-050 Lisbon Portugal",b6bSO7KZQde5JdPem99RUg,hotels,Hotels,4.0,28,€€€,38.721,-9.146965
+Memmo Alfama,Travessa das Merceeiras 27 1100-348 Lisbon Portugal,3SPxa90mdRwMLdIySZFMsw,hotels,Hotels,4.2,27,€€,38.7103348,-9.130806
+Lisboa Carmo Hotel,"R. da Oliveira ao Carmo, 1-3 1200-307 Lisbon Portugal",nwBdT3UNgxwPc4-inOGkSw,hotels,Hotels,4.4,13,€€,38.712221,-9.141235
+Hotel Santa Justa,Rua dos Correeiros 204 1100-170 Lisbon Portugal,9C4j9wot_OZgHx-LSzIg8w,hotels,Hotels,4.7,18,€€,38.7124676,-9.1379317
+Corinthia Lisbon,"Av. Columbano Bordalo Pinheiro, 105 1099-031 Lisbon Portugal",j7aSumyYuKkLP1ZjrUUhMA,hotels,Hotels,4.2,29,€€€,38.7386055,-9.1665029
+Hotel Holliday Inn Lisbon - Continental,"Rua Laura Alves, 9 1069-169 Lisbon Portugal",kz1oo1jVegg-9vWz3xfpKQ,hotels,Hotels,3.5,8,€€,38.7413101,-9.1498299
+Corpo Santo Lisbon Historical Hotel,"Largo do Corpo Santo, 25 1200-129 Lisbon Portugal",CW1gOMTDC5ZBnErrGx0yxw,hotels,Hotels,4.8,20,,38.707319,-9.142059
+As Janelas Verdes,"R. das Janelas Verdes, 47 1200-690 Lisbon Portugal",-A0Yvm5x9xoTiExHJPseEA,hotels,Hotels,4.6,8,€€€,38.705457,-9.160237
+Júpiter Lisboa Hotel,"Av. da República, 46 1050-195 Lisbon Portugal",VjsO6GrOQDoC1qrF4cjJ6w,hotels,Hotels,4.4,8,€€€,38.73948,-9.14586
+Olissipo Oriente,"Av. D. João II, Lote 1.03.2.2 1990-083 Lisbon Portugal",_hWiNWd-EG5TTu3RvTxGWg,hotels,Hotels,4.3,4,,38.7649276867058,-9.09779600150262
+Santiago de Alfama - Boutique Hotel,"R. de Santiago, 10-14 1100-494 Lisbon Portugal",ud5jr6GocT-v6_BOSqtCtg,hotels,Hotels,5.0,1,,38.711419,-9.131216
+Tivoli Hotel,"Av. Dom Joao II, 27 Parque das Nações 1990-083 Lisbon Portugal",015YBPHeyIgjITEVjZShfA,hotels,Hotels,3.5,11,€€,38.766702,-9.0982
+Rossio Hostel,"Calçada do Carmo nº 6, 2 dto 1200-091 Lisbon Portugal",NJD2cy2VwKQighP2E9uJSw,hotels,Hotels,5.0,4,€,38.7130805,-9.1409173
+Hotel 1908,Av. Alm. Reis 6 1150-041 Lisbon Portugal,cVgaf5yAQgvVlz1L4EROMw,hotels,Hotels,3.7,7,,38.7207961265291,-9.13531264669046
+Hotel Star inn Lisbon,"R. C, 125 1749-125 Lisbon Portugal",VDqVJhqbM-ot8rhvJY6N-g,hotels,Hotels,4.2,16,,38.7707945,-9.12548
+Internacional Design Hotel,"R. da Betesga, 3 1100-090 Lisbon Portugal",KNBeo2aSxXtuMLJy9nkldg,hotels,Hotels,4.4,14,€€€€,38.71305,-9.13843
+Casa do Barao,"Rua da Emenda, 84 1200-170 Lisbon Portugal",fqcQXRz10yK6u-NAS-p1lQ,bedbreakfast,Bed & Breakfast,5.0,2,,38.7098999,-9.1443396
+Holiday Inn Express,"R. Guiné, 18 2685-334 Lisbon Portugal",fU7Bg--A-3ndcgslmVMA7A,hotels,Hotels,3.0,4,€€€,38.785994,-9.120448
+Radisson Blu Lisboa,"Avenida Marechal Craveiro Lopes, 390 1749-009 Lisbon Portugal",3twhTZpt-FdKNUw3pOti6A,hotels,Hotels,2.6,14,€€,38.7595589,-9.1537167
+HF Fénix Urban,"Av. António Augusto de Aguiar, 14 1050-016 Lisbon Portugal",jZB4itjaySaxsJredM-QUg,hotels,Hotels,4.5,4,€€€,38.728685,-9.148878
+The Lumiares Hotel & Spa,"R. do Diário de Notícias, 142 1200-146 Lisbon Portugal",hLOIMUqiZpYmXq7Re_vhCg,hotels,Hotels,4.0,8,,38.713872,-9.144452
+My Story Ouro,"Rua Áurea, 100 1100-063 Lisbon Portugal",LlxwyFGwEW9IpRaDIXWefw,hotels,Hotels,3.7,18,€€,38.7099419,-9.1381798
+Holiday Inn,"Av. Antonio Jose De Almeida, 28 1000-044 Lisbon Portugal",gLS7NknLeHkeQWA28xmtyw,hotels,Hotels,2.3,8,€€,38.738228,-9.141406
+Brown's Boutique Hotel,"R. da Vitória, 88 1100-619 Lisbon Portugal",MnYLrGHe8ajtDWkDFa3O6A,hotels,Hotels,4.3,4,,38.710927,-9.138282
+SANA Metropolitan Hotel,"R. Soeiro Pereira Gomes, 2 1600-198 Lisbon Portugal",UMno67AjmqSKXX6xY5TmMA,hotels,Hotels,3.7,9,€€€,38.7454451129965,-9.15989809893509
+Hotel H10,"Av. Duque de Loulé, 81 1050-088 Lisbon Portugal",VBEE8AojX0VPAjJ54Cn2ig,hotels,Hotels,3.6,8,€€,38.7265172783164,-9.14702408015728
+Holiday Inn Express,"R. Alexandre Herculano, 40 1250-011 Lisbon Portugal",fQ5jbSMa2Mu2ozdDhKmx6Q,hotels,Hotels,4.0,5,€€,38.7224590187567,-9.15038488805294
+BessaHotel Liberdade,"Av. da Liberdade, 29 1250-139 Lisbon Portugal",OBD52Csk5Lw5dgEYve2Ydw,hotels,Hotels,3.3,10,€€€,38.7169390017093,-9.14339166074797
+Hotel Mundial,"Praça Martim Moniz, 2 1100-341 Lisbon Portugal",fAP3R5sOEZPbSmpm3p4XzQ,hotels,Hotels,3.4,26,€€,38.714926,-9.136812
+AlmaLusa,"Praça do Munícipio, 20 1100-365 Lisbon Portugal",hA7Hy6TujgtRZNgx1kZhDQ,hotels,Hotels,4.1,9,,38.708272,-9.139711
+Hotel Portugal,"Rua João das Regras, 4 1100-294 Lisbon Portugal",B7aWwEPmGZWdW3oed6bA6A,hotels,Hotels,4.2,13,€€,38.7144439,-9.1367034
+HF Fénix Lisboa,"Praça Marquês de Pombal, 8 1269-133 Lisbon Portugal",KYqeFglUCBFl6haPhoSnug,hotels,Hotels,3.7,7,€€€,38.7249780699456,-9.15112548783566
+Hotel Borges Chiado,"R. Garrett, 108 1200-205 Lisbon Portugal",HCZj5nOjNSmSKwHydBRwnw,hotels,Hotels,2.0,5,€€,38.710692,-9.141924
+Hotel NH Lisboa Campo Grande,"Campo Grande, 7 1700-087 Lisbon Portugal",qLN6VZB2fUukrEqMfUdRfA,hotels,Hotels,3.5,4,€€,38.748724,-9.149642
+Epic Sana Lisboa Hotel,"Av. Engenheiro Duarte Pacheco, 15 1070-100 Lisbon Portugal",ZWb3O242ppcifr7mkX0XXA,hotels,Hotels,4.4,17,€€€,38.72453,-9.15854
+Solar do Castelo,"R. das Cozinhas, 2 1100-181 Lisbon Portugal",vGjfnemXAsRkzLWF8_YpLw,hotels,Hotels,5.0,2,€€€,38.713105,-9.133467
+VIP Executive Art's Hotel,"Av. D. João II, 47 1998-028 Lisbon Portugal",gObbdCVsv0A5Fch_OdZhGg,hotels,Hotels,3.5,11,€€,38.773098,-9.097691
+Hotel do Chiado,"R. Nova do Almada, 114 1200-290 Lisbon Portugal",DLZsjWaKWdfKnYfkfwpnWQ,hotels,Hotels,3.5,11,€€€,38.710703,-9.139492
+Altis Belém Hotel & Spa,Doca do Bom Sucesso 1400-048 Lisbon Portugal,wfVzs2-GS_Ah-zQkAa8PZg,hotels,Hotels,4.0,10,€€€,38.6934314838451,-9.21078906761469
+Hotel NH Collection Lisboa Liberdade,"Av. da Liberdade, 180 B 1250-146 Lisbon Portugal",RJ-gwHATiSQoXF0HJoPUMA,hotels,Hotels,4.0,8,€€€,38.720236,-9.144889
+Hotel MELIÃ Aldeia dos Capuchos,L. Aldeia dos Capuchos 2825-008 Almada Portugal,vOVGNz4HYJ8S09X41eZaPQ,realestateagents,Real Estate Agents,3.0,2,,38.648201,-9.2242498
+Ibis Parque Das Nacoes,"Av. Dom João Ii, 11701 1990-203 Lisbon Portugal",LH8zpDwkFasFnbMaJQOdOQ,hotels,Hotels,4.0,3,€€,38.7727661,-9.0977421
+Valverde Hotel,"Av. da Liberdade, 164 1250-146 Lisbon Portugal",hd5mo2R3uo3lRAcIIzgMTA,hotels,Hotels,3.4,7,€€€,38.7196635725252,-9.14433238264552
+Holiday Inn Express,"R. da Quinta do Paizinho, 11 2790-236 Carnaxide Portugal",tNkH0rj1ElRB6LIskSZQrA,hotels,Hotels,3.0,1,€€,38.7222866389809,-9.21753063797951
+Hotel Açores,"Avenida Columbano Bordalo Pinheiro, 3 1070-060 Lisbon Portugal",e6NP1PBZxat0wrbXTfZUqg,hotels,Hotels,3.8,4,€€€,38.7376151,-9.1597088
+Mercure Lisboa,"Av. Jose Malhoa, 23 1099-051 Lisbon Portugal",Ik1qNmBUEKRBNcvw-3mW2w,hotels,Hotels,2.3,3,€€€,38.7377014,-9.1658716
+Olissippo Saldanha,"Av. Praia da Vitória, 30 1000-248 Lisbon Portugal",ylkhfFpBYECQ4doyTvR59Q,hotels,Hotels,3.3,3,,38.7340679,-9.14346
+Marriot Hotels International B.V. Sucursal,Av. Combatentes 1600-000 Lisbon Portugal,EVNkWrxhekgbFFL4s1979w,hotels,Hotels,1.0,1,,38.7469101,-9.1629696
+Novotel Lisboa,"Av. José Malhoa, 1 1099-051 Lisbon Portugal",tJ4NnMzgGdZgE2iR08dFVQ,hotels,Hotels,3.2,6,€€,38.736384300509,-9.16204854157193
+Holiday Inn Express,"Av. João Crisóstomo, 40-42 1050-162 Lisbon Portugal",jfxwV5kgiaJH17cxY5Dtwg,hotels,Hotels,4.6,5,,38.7360409238028,-9.14851874113083
+Hotel Lisboa,"R. Barata Salgueiro, 5 1169-066 Lisbon Portugal",F_IBrPSZvkkwAs_eCpkuvQ,hotels,Hotels,3.6,5,€€,38.7222404,-9.1463699
+Hotel da Estrela,"Rua Saraiva de Carvalho, 35 1250-242 Lisbon Portugal",Tu6tNjeu37DxhTvIZVnFeQ,hotels,Hotels,4.3,10,€€,38.7174566,-9.1595007
+Hotel Alicante,Av. Duque Loulé 20 1050-090 Lisbon Portugal,-gPD6iYgH-Qmn4uPryHGdQ,hotels,Hotels,4.0,1,,38.7288,-9.14455
+Rooftop at The Art Inn,"R. 1º de Dezembro, 31 1200-357 Lisbon Portugal",Q7i_PTpItlxi_sJigKw4qA,hotels,Hotels,3.6,5,€€€€,38.713092,-9.140017
+Brown's Downtown,"Rua dos Sapateiros, 73 1100-042 Lisbon Portugal",UtoJY2lnHIEOJOhyYrqKhw,hotels,Hotels,3.2,10,€€,38.7105392982766,-9.13809561379084
+cheap hotels,Avenida Fontes Pereira de Melo  47 Lisbon Portugal,2RmBbuDvgn_QyjxyGj85Jg,bars,Bars,5.0,1,€,38.7327744,-9.1456819
+Hotel Lux lisboa Park,R. Padre António Vieira 32 1070-015 Lisbon Portugal,t9zu3GgtBVQogIYyEamWSQ,hotels,Hotels,4.0,1,€€€,38.72775,-9.15835
+The Vintage Hotel & Spa,"R. Rodrigo da Fonseca, 2 1250-191 Lisbon Portugal",pmA7DXMxOawDkvoyyiGF3w,hotels,Hotels,4.6,7,€€€,38.7200022,-9.1505303
+Hotel Dom Carlos Liberty,"R. Alexandre Herculano, 13 1150-005 Lisbon Portugal",DHxMzz8RbW1u1E25SBCCCg,hotels,Hotels,3.5,4,,38.7236099,-9.1474705
+Residencial Horizonte,"Av. António Augusto de Aguiar, 42 6º 1050-016 Lisbon Portugal",zw7Ui5fWYtpHEb3I6whdMA,hotels,Hotels,3.0,2,€€,38.7300682,-9.1500797
+9Hotel Mercy,"R. da Misericórdia, 76 1200-273 Lisbon Portugal",JopTbqOH6jVuMv-Oj6NP9Q,hotels,Hotels,3.3,10,€€,38.7123666,-9.1429633
+"Fontecruz Lisboa, Autograph Collection",Avenida da Liberdade 138-142 1250-001 Lisbon Portugal,1D4-pyl1i0MhDOXqv57RIg,hotels,Hotels,4.0,26,€€€,38.7192524228744,-9.14403543637491
+Inspira Santa Marta Hotel,"R. de Santa Marta, 48 1150-297 Lisbon Portugal",bx70ixi2639OS7vhDmqkag,hotels,Hotels,4.1,11,€€€,38.72318,-9.14561
+Lisbon Wine Hotel,"R. Portas de Santo Antão, 88 1150-265 Lisbon Portugal",abqCfRI4heBp-IbBtHvnoA,hotels,Hotels,4.9,9,,38.7162999,-9.14045
+Memmo Príncipe Real Hotel,"R. Dom Pedro V, 56 1250-094 Lisbon Portugal",PH_8HKvVeGlZC6btE-6sWw,hotels,Hotels,4.4,7,,38.716227,-9.146092
+Myriad by Sana Hotels,"Cais das Naus, Lote 2.21.01 1990-173 Lisbon Portugal",CXGhjpsDuK0FusDit3iKQw,hotels,Hotels,4.1,10,€€€€,38.7747988088132,-9.0912903904159
+Hotel Botânico,"R. Mãe de Água, 16/20 1250-156 Lisbon Portugal",G6aDuRMpDJGWvFIUC6Tduw,hotels,Hotels,5.0,2,€,38.7173843,-9.1468983
+Hotel Marquês de Pombal,"Av. da Liberdade, 243 1250-143 Lisbon Portugal",M-URexQjVHXeRxQ7csDBFA,hotels,Hotels,4.0,6,€€,38.7233664760433,-9.14893518098563
+Turim,"Av. da Liberdade, 247 1269-170 Lisbon Portugal",wTIfr_azEl9pd6nRGckEBw,hotels,Hotels,3.3,7,€€€,38.7237587,-9.1493702
+TRYP,"R. C, 2 1749-125 Lisbon Portugal",vFM8jBv6Jcc5A2tiIzrlVA,hotels,Hotels,3.0,8,€€,38.76188,-9.13282
+Lagoas Hotel,"Lagoas Park, Ed. 2 2740-265 Oeiras Portugal",83tL5a4qCQBatAuaI0JjIg,bars,Bars,5.0,1,€€€€,38.7119217,-9.3140802
+Hotel White Lisboa,"Av. da República, 9 1050-185 Lisbon Portugal",piXnAYay9BdSW7AsLq_oJg,hotels,Hotels,4.0,1,,38.734863,-9.145515
+Hotel Zenit Lisboa,"Av. 5 de Outubro, 11 1050-047 Lisbon Portugal",Ug1FJQ8fbOcUyogttPte7g,hotels,Hotels,3.3,4,€€,38.7332802,-9.1470804
+Le Consulat,"Plaça Luís de Camões, 22 1249-190 Lisbon Portugal",QIIGuree1Qf6Z68_WcmYnw,hotels,Hotels,4.2,6,,38.7105762476914,-9.14330472937809
+Martinhal Lisbon Chiado Family Suites,"R. das Flores, 44 8135-998 Lisbon Portugal",r0mWN0CoLImlQLqIlop63w,hotels,Hotels,5.0,6,€€€,38.7088277203884,-9.14354231359562
+Casa Dell'Arte,"Campo Santa Clara, 125 São Vicente 1100-473 Lisbon Portugal",gWNTfyGWNL-eIxYHQmR2rg,hotels,Hotels,5.0,3,,38.71558,-9.12609
+Olissippo Marquês de Sá,"Av. Miguel Bombarda, 130 1050-167 Lisbon Portugal",G53t0ZgE0249Z2gBzx9GFQ,hotels,Hotels,2.5,4,,38.736372,-9.15159
+ibis Lisboa José Malhoa,"Av. José Malhoa, 10 1070-158 Lisbon Portugal",vyBp7WBiXSOllCS_tff6FQ,hotels,Hotels,4.0,1,,38.737079,-9.162705
+Hotel Altis,"Rua Castilho, 13 1269-072 Lisbon Portugal",If6go1YXAOH0Zann16KjRw,hotels,Hotels,3.8,18,€€€,38.7210312,-9.1502304
+York House,"Rua das Janelas Verdes, 32 1200-691 Lisbon Portugal",S9KuIF-EioW9OgdoY9ZtHw,hotels,Hotels,4.2,5,€€€€,38.7061353,-9.1592535
+Evidencia Belverde,"Av. de Belverde, 70 2845-483 Amora Portugal",MMzWj2f92xiFerwrC8StOA,hotels,Hotels,5.0,1,€€,38.5998688,-9.1395063
+Turim Lisboa Hotel,"R. Filipe Folque, 20 1050-113 Lisbon Portugal",9SKEvXL3XwdjXA6gwxdjXA,hotels,Hotels,4.0,2,€€,38.7322397,-9.1493643
+Hotel Alegria,"Praça de Alegria, 12 1250-004 Lisbon Portugal",XaLVe_KVlnPW52fcOOKUgg,hotels,Hotels,4.5,8,,38.7175187,-9.1449495
+AVANI Avenida Liberdade Lisbon,"R. Júlio César Machado, 7-9 1250-135 Lisbon Portugal",JUoh6RTTV1gKKGZdfwfRsQ,hotels,Hotels,1.0,1,,38.720392,-9.147377
+Hotel Lisboa Plaza,"Tv. do Salitre, 7 1269-066 Lisbon Portugal",w2NVajknvu8XXiGkD8gB1g,hotels,Hotels,4.1,7,€€,38.71886,-9.145466
+Hotel Alif Avenidas,"Av. Duque de Ávila, 189 1050-082 Lisbon Portugal",A4Nvzuex1kZMytvjmiWVDg,hotels,Hotels,5.0,1,€€,38.73489,-9.1504602
+SANA Malhoa Hotel,"Av. José Malhoa, 8 1099-089 Lisbon Portugal",iQ2V-XUFa6FjAGGEDEABBw,hotels,Hotels,3.5,4,€€€,38.7369717,-9.162401
+Residencial Setubalense,"Rua Belém, 28 1300-084 Lisbon Portugal",zTXn6HH9lTcjyMB3d8Zp1g,hotels,Hotels,3.7,3,€,38.6973819,-9.2022959
+The Pessoa,Largo do Carmo 1200-092 Lisbon Portugal,9He0PixiE3FKvASaGEwtRA,guesthouses,Guest Houses,1.0,1,,38.71173,-9.14099
+Nazareth,"Av. António Augusto de Aguiar, 25 1050-012 Lisbon Portugal",V-D1iSWHMvZiBAamt5DasQ,hotels,Hotels,4.0,1,€€,38.7315903,-9.1518602
+Real Palácio Hotel,"R. Tomás Ribeiro, 115 1050-228 Lisbon Portugal",2wk5LXoh_gwkGSKg_3YvlQ,hotels,Hotels,2.5,15,€€€,38.732208,-9.150777
+Casual Belle Époque Lisboa,"R. da Madalena, 125 1100-319 Lisbon Portugal",kPWKh6dUSQKm-zZFl5PLUQ,hotels,Hotels,3.0,2,,38.711001,-9.1356701
+Hotel Roma,"Av. de Roma, 33 1749-074 Lisbon Portugal",c5LnoWfP37u9gxCWSGXgGA,hotels,Hotels,3.4,13,€€,38.74574,-9.14026
+Lisbon City Hotel,"Av. Almirante Reis, 49 1150-010 Lisbon Portugal",Aeu0o-3KNSmx9kzI2fWbWA,hotels,Hotels,3.3,6,,38.7247464,-9.135263
+Vip Inn Berna,"Av. António de Serpa,13 1069-199 Lisbon Portugal",NA45h6CMod6216LCrYxdxw,hotels,Hotels,3.0,6,,38.7429695,-9.1481895
+Eurostars Lisboa Parque,"Largo Andaluz, 13 1050-121 Lisbon Portugal",nLJ70k-y4dpWmRetVa-KeQ,hotels,Hotels,4.0,2,,38.728213,-9.14771
+Vip Grand Lisboa Hotel & Spa,"Av. 5 de Outubro, 197 1050-054 Lisbon Portugal",9e52Aom0CwOw0zMA-CcUrg,hotels,Hotels,3.3,11,€€€,38.7422409,-9.14925
+Vila Galé Opera Hotel,Travessa conde da Ponte 1300-141 Lisbon Portugal,zHUB3DooQANtfVz6_cuF9w,hotels,Hotels,4.2,6,€€€,38.7002546,-9.1807855
+Raw Culture Lofts Bairro Alto,"R. das Gáveas, 103 Alto 1200-206 Lisbon Portugal",bSR868URbwvXnE6VO9VCrQ,hotels,Hotels,5.0,1,,38.712853,-9.143535
+Hotel Convento do Salvador,"R. do Salvador, 2B Alfama 1100-465 Lisbon Portugal",JBx1reb1QcEkewjZrwlOQQ,hotels,Hotels,4.7,3,,38.712768,-9.130029
+Vip Executive Marquês Aparthotel,"Av. Duque de Loulé, 45 1050-086 Lisbon Portugal",4XyDrTo8ozcdAFtPv38E_g,vacation_rentals,Vacation Rentals,1.0,1,,38.72801,-9.14502
+Verride Palácio Santa Catarina,"R. de Santa Catarina, 1 1200-401 Lisbon Portugal",p-gr_PeSlDbQGzYzbhohcQ,hotels,Hotels,5.0,2,,38.7096918485244,-9.14739568161463
+The Beautique Hotels Figueira,"Praça da Figueira, 16 1100-241 Lisbon Portugal",Ep2nQZBwJRRzBP4cWwi4Xg,hotels,Hotels,3.9,12,€€€€,38.7132607,-9.1375399
+H2S - Home2Students,"Av. Miguel Bombarda, 70 3º 1050-166 Lisbon Portugal",UEvbuZwOqguHoeOomEg2-w,realestateagents,Real Estate Agents,1.0,1,,38.7367401,-9.1498699
+Riviera Hotel,"R. Bartolomeu Dias, s/n Junqueiro 2775-551 Carcavelos Portugal",hz3ARYHjpr78xhqdlrTChA,hotels,Hotels,4.0,1,€€,38.68477,-9.34365
+Hotel Diplomático,Rua Castilho 74 1250-071 Lisbon Portugal,KwefM59nUgpz1oIa5YVhlw,hotels,Hotels,3.0,1,,38.7244977,-9.1528035
+Hotel 3K Europa,"Avenida da República, 93 1050-190 Lisbon Portugal",qq-Cs23bfaM-iO6q2c1mxg,hotels,Hotels,3.5,4,€€€,38.7438698,-9.1475401
+The Lisbonaire,Rua da Glória 16 1250-116 Lisbon Portugal,rGRwkM0PPRKTgvFHagdpVw,vacation_rentals,Vacation Rentals,4.7,6,,38.7165565,-9.1436722
+Palácio Ramalhete,Rua das Janelas Verdes 92 1200-692 Lisbon Portugal,FLsNYiop2cmH5rS04dFFAA,hotels,Hotels,5.0,4,€€€,38.7054584,-9.1605547
+Teatro B&B,"Rua da Trindade, 36 1200-467 Lisbon Portugal",GB_YVgEKwhkdsuicjY4_1w,bedbreakfast,Bed & Breakfast,4.4,7,€€,38.7118974,-9.1420856
+Lisbon Short Stay,"Rua dos Sapateiros, 158 1100-580 Lisbon Portugal",snieS5SgwFVI8AS4v6JZmA,hotels,Hotels,4.4,9,€€,38.7117881,-9.1384933
+Aparthotel Vip Eden,Praça dos Restauradores 24 1250-187 Lisbon Portugal,KXWAoGEVJAdNnU30iBBTvQ,hotels,Hotels,4.5,4,€€,38.7161,-9.14225
+Vincci Baixa,"Rua do Comércio, 32-38 1100-150 Lisbon Portugal",U20ybTR0yXkRrjpXYkPY3w,hotels,Hotels,4.0,1,€€€,38.7092233,-9.135553
+Turim Alameda,Av. Rovisco Pais 34 1000-268 Lisbon Portugal,e65ge0YP1I8FRzRSPvA4xQ,hotels,Hotels,4.0,1,,38.7354399,-9.13763
+Rossio Boutique Hotel,"R. Barros Queirós, 31 1100-076 Lisbon Portugal",2br-Hru6gwn1BzVIgTIijA,hotels,Hotels,3.3,3,,38.71494,-9.13832
+Lisbon Colours,"Travessa da Queimada, 44 Lisbon Portugal",8gynJfPXFO8RjqK1ImYsIw,hotels,Hotels,3.0,2,€€,38.7128716,-9.1447296
+behotelisboa,"R. dos Correeiros, 136 1100-168 Lisbon Portugal",gaRcw3lcK5trqYwUFtVOwA,hotels,Hotels,4.2,5,,38.71162,-9.13756
+Dom Pedro Palace,"Av. Engenheiro Duarte Pacheco, 24 1070-110 Lisbon Portugal",OsGOl9emBSsiIEy9q2ihXA,hotels,Hotels,4.0,12,€€€,38.7247333997066,-9.16030598591385
+Hotel Dom Carlos Park,"Av. Duque de Loulé, 121 1050-089 Lisbon Portugal",uWdu6aSN036ckD6qlCnKMw,hotels,Hotels,3.0,1,€€,38.7256889,-9.1480598
+Casa do Bairro by Shiadu,"Beco do Caldeira, 1 1200-083 Lisbon Portugal",ZMcxMAFUariXIXqb8CgAqw,guesthouses,Guest Houses,4.0,2,,38.70927,-9.150502
+Hotel PortoBay Liberdade,"R. Rosa Araújo, 8 1250-195 Lisbon Portugal",mKRIt5UqHOSDYQTNPv2BMg,hotels,Hotels,4.5,6,€€€,38.72219,-9.14888
+Hotel Altis Avenida,"R. 1º Dezembro, 120 1200-360 Lisbon Portugal",DJgHLPzLclLpAp-_JnE7jA,hotels,Hotels,4.2,9,€€€,38.715085,-9.140767
+Lutécia,"Av. de Frei Miguel Contreiras, 52 1700-213 Lisbon Portugal",E3dR_DJ4ux1qBeAVIQPwOA,hotels,Hotels,3.2,9,€€,38.74602,-9.13896
+Turim Terreiro do Paço,"R. do Comércio, 9 1100-149 Lisbon Portugal",MEiBpEXNhw6FaxX1n9gQSg,hotels,Hotels,3.3,3,€€€,38.709167,-9.135061
+Torel Palace,"Rua Câmara pestana, 23 Lisbon Portugal",rHtY02rZl2GUVVHcoFUlfA,bedbreakfast,Bed & Breakfast,2.3,3,,38.7179291341395,-9.14005492896806
+Lisbon Lounge Hotel,"Rua São Nicolau, 41 1100-547 Lisbon Portugal",94Xd6GUngQ8IB7e3ww2P4g,hotels,Hotels,5.0,2,,38.7103767,-9.1369219
+TRYP Lisboa Caparica Mar,"Av. Gen. Humberto Delgado, 47 2829-506 Costa da Caparica Portugal",Ni-H5odi0iPh077OZgMrBQ,hotels,Hotels,2.0,2,,38.64337,-9.23778
+Hotel As Lisboa,"Av. Almirante Reis, 188 1000-055 Lisbon Portugal",XieXK380bk1DgOMzVJrhbQ,hotels,Hotels,2.0,1,€€,38.737595634743,-9.13362236004946
+Sana Lisboa Hotel,"Av. Fontes Pereira de Melo, 8 Lisbon Portugal",UNBG8QgvPJJMmbKJhs70zg,hotels,Hotels,4.5,8,€€€,38.7270721,-9.1486144
+TRYP  Oriente,Avenida Dom João II 1990-083 Lisbon Portugal,EV2FHFqvMmW2j37EFDiOkw,hotels,Hotels,3.6,10,€€,38.76942187,-9.09804697
+Rossio Garden,"Rua Jardim do Regedor, 24 1150-194 Lisbon Portugal",Ydmp0bv8rpmHsuBcSAo_tA,hotels,Hotels,3.4,5,€€,38.7157560221216,-9.14033095948592
+Home Lisbon Hostel,"Rua de São Nicolau, 13, 2°Esq., 1100-547 Lisbon Portugal",o8zUAkYhk4jNNWU2n6y34w,bedbreakfast,Bed & Breakfast,4.3,16,,38.7104443,-9.1366973
+Residencial Lar do Areeiro,"Pça. Francisco Sá Carneiro, 4 1000-159 Lisbon Portugal",PGc5eitSx0P1_8TAZrRAwQ,guesthouses,Guest Houses,2.5,4,,38.7420502,-9.1339903
+Exe Liberdade,"Av. Duque de Loulé, 124 1050-093 Lisbon Portugal",p6vvtvMS_vS0j5TqdwlXIw,hotels,Hotels,4.4,5,,38.726123102335,-9.1480765119195
+VIP Executive Picoas Hotel,"R. Filipe Folque, 12 1069-191 Lisbon Portugal",BAkLHeoo9Q2Zws0s8XzfoQ,hotels,Hotels,5.0,3,,38.731832,-9.149708
+Residencial Valentina,"Calç. da Estrela, 27 1º 1200-661 Lisbon Portugal",-jRm0HZitHkgIeWpY6gf7g,hotels,Hotels,3.5,2,,38.7113304,-9.1531401
+Feels Like Home Chiado Prime Suites,"Largo da Academia Nacional de Belas Artes, 17 1200-289 Lisbon Portugal",mWOUCKU7GzC7imPDWErDLA,guesthouses,Guest Houses,3.7,3,,38.70852,-9.13994
+Hotel Vip Executive Zurique,"R. Ivone Silva, 18 1050-124 Lisbon Portugal",2O7oZ_7uhL9L09_oFJ0inA,hotels,Hotels,2.5,4,€,38.7428894,-9.1500597
+Hotel Lis,"R. dos Douradores, 146 1100-107 Lisbon Portugal",nZlPNKzqWLQ3649X6Y-4yg,hotels,Hotels,2.0,4,€€€,38.712164,-9.13682
+Lar Pascoal de Melo,"R. Pascoal de Melo, 127 B-1 1000-232 Lisbon Portugal",103gRKjPOy6WSukh-i24SQ,hotels,Hotels,3.0,1,€€,38.7315407,-9.1399403
+Empire Lisbon Hotel,"Av. Almirante Reis, 130 1150-023 Lisbon Portugal",mIpX6YzHIdsBasRKE39URw,hotels,Hotels,4.5,2,,38.732373,-9.134264
+Sana Executive,"Avenida Conde Valbom, 56 1050-069 Lisbon Portugal",xWszm4ZmBs64YMGesoNGLQ,hotels,Hotels,3.8,6,€€,38.7368698,-9.1504498
+SANA Reno Hotel,Avenida Duque Ávila 195-197 1050-000 Lisbon Portugal,pX8HygTFVygCY2D06Z1GxA,,,4.5,2,,38.7348869,-9.1508473
+Aquapura Douro Valley,Quinta Da Vale De Abraoo Lisbon Portugal,BExuGekqd19zjQccm4u-Cw,hotels,Hotels,4.0,1,,38.7111511,-9.1503601
+Palácio do Governador,"R. Bartolomeu Dias, 117 1400-030 Lisbon Portugal",_ZBCoK0xNKw3NkQ21XArqg,hotels,Hotels,5.0,1,€€€€,38.6950405,-9.2144062
+The House,"Travessa do Pinheiro, 11 1200-763 Lisbon Portugal",KKrjlxdUl1449alcrPGPNA,bedbreakfast,Bed & Breakfast,3.0,2,,38.71216,-9.1594
+Pet Hotel,"Estrada das Laranjeiras, nº 1 A 1600-140 Lisbon Portugal",elo3Hlpa55Y5lR1EnIeTHA,animalshelters,Animal Shelters,4.0,1,,38.7440707,-9.1675748
+Feeling Chiado 15,Largo do Carmo 15 1200-022 Lisbon Portugal,XesfN49H0gvXlCAa0tupzg,hotels,Hotels,5.0,1,,38.71188090412548,-9.140977835336315
+Hotel Duas Nações,"R. da Vitoria, 41 1100-618 Lisbon Portugal",8JoDlYTeoyOAwdiXENngmg,hotels,Hotels,1.0,3,€€€,38.7109711,-9.1375905
+Vip Executive Villa Rica,"Avenida 5 de Outubro, 295 1600-035 Lisbon Portugal",xyGtzlJabuxCk5X9XvHGyA,hotels,Hotels,3.0,7,,38.7464485,-9.1502705
+Hotel Suites do Marques,Av. Duque de Loule 45 1050-086 Lisbon Portugal,nXtn_dGkfw2LTlC24AUhTg,hotels,Hotels,4.0,1,€€,38.7281,-9.14502
+Hotel Britania,"R. Rodrigues Sampaio, 17 1150-278 Lisbon Portugal",_5PSrfIqOF7I3lU6kipdOQ,hotels,Hotels,4.6,8,€€€,38.7215385,-9.1455498
+Clarion Suites Lisbon,"Rua Rodrigo da Fonseca, 44/50 1250-193 Lisbon Portugal",Mb76UcXEDf23BA-ls59Avg,hotels,Hotels,2.0,1,€€,38.7225494,-9.15273
+My Story Hotel Rossio,"Praça Dom Pedro IV, 59 1100-200 Lisbon Portugal",NeLujd9SRY_QKgmVbhbuKA,hotels,Hotels,3.8,6,,38.71417,-9.14013
+Ibis Saldanha,"Av. Casal Ribeiro, 23 1000-090 Lisbon Portugal",AVRA4b8NoJfyGomL36aAPg,hotels,Hotels,3.8,4,,38.732573,-9.1425914
+Hotel Jerónimos 8,"Rua dos Jerónimos, 8 1400-211 Lisbon Portugal",W4Mq62AKBL0Agz14NpOG0Q,hotels,Hotels,4.0,2,€€,38.6983528,-9.2048607
+Hotel do Chile,"R. de António Pedro, 40 1000-039 Lisbon Portugal",8R5Let0C0xBhXX4e3AVUow,guesthouses,Guest Houses,3.0,1,,38.7315216,-9.13517
+Hotel 3K Madrid,Rua Conde Redondo 24 1150-106 Lisbon Portugal,7lduJ93g2zY6rBC94fF9Pg,hotels,Hotels,2.0,2,€€€,38.7270383,-9.1446298
+Pousada Palácio de Queluz,Largo do Palácio Nacional 2745-191 Queluz Portugal,MK7E3CGNm-fQ9yu193suHQ,guesthouses,Guest Houses,5.0,1,,38.750863,-9.257545
+Yes! Lisbon Hostel,"Rua de São Julião, 148 1100-527 Lisbon Portugal",9SlpmJRZhbit0AxiEwh7Sw,vacation_rentals,Vacation Rentals,4.9,20,,38.709121,-9.1377062
+Lisboa Prata Boutique Hotel,"R. da Prata, 116 1100-420 Lisbon Portugal",Ocr38bEw6Y_HFfgZzQm1pQ,hotels,Hotels,4.3,3,€€€,38.7106075,-9.1366691
+Hotel Florida,"Rua Duque de Palmela, 34 1250-098 Lisbon Portugal",iARH0E8d9aTgeZi3p7gVhw,hotels,Hotels,4.0,3,€€,38.7240791,-9.15028
+The Lisboans Apartments,"Travessa do Almada, 9 1100-500 Lisbon Portugal",khjtji8mBm_nzqVaNkavqg,vacation_rentals,Vacation Rentals,4.0,4,,38.7106,-9.13485
+Otília Hotel & Apartamentos,"R. dos Corrieiros, 71 1100-161 Lisbon Portugal",Jx96lnmcIGUim1ZKwrC6Kw,realestateagents,Real Estate Agents,4.0,1,€€,38.7107086,-9.1373501
+Ramada By Wyndham Lisbon,"Av. Eng. Arantes e Oliveira, 9 1900-221 Lisbon Portugal",gRyLEYnGDckZYsDXl7Lirg,hotels,Hotels,4.0,1,€€,38.73961,-9.124173
+A Floresta de Moscavide II,"R. do Almirante Gago Coutinho, 12A 1885-035 Loures Portugal",LoRz27RUAwGj9VWv7JFc3w,bakeries,Bakeries,4.0,2,€€,38.7758484,-9.1035805
+The Late Birds,"Travessa André Valente, 21-21 1200-024 Lisbon Portugal",7WvTrt8qQYCqUvz45O5N7Q,guesthouses,Guest Houses,5.0,4,,38.7115402,-9.1476498
+Radio-Hotel,Travessa Conde da Ponte 12 1300-141 Lisbon Portugal,cYZGiVo_-Wds7eqQuEZnBg,danceclubs,Dance Clubs,3.3,4,€€,38.7005164,-9.1809523
+My Story Hotel Tejo,"R. dos Condes de Monsanto, 2 1100-159 Lisbon Portugal",dZYtbmkmPuNDd0I_F3KnPw,hotels,Hotels,3.3,3,€€,38.7136,-9.13676
+Real Parque Hotel,"Av. Luís Bívar, 67 1069-146 Lisbon Portugal",E086ZFFxKD6tm-lrhsH1wg,hotels,Hotels,3.5,6,€€,38.733378,-9.150272
+Maxime Hotel,"Praça da Alegria, 58 1250-004 Lisbon Portugal",WtW6jFXWwhQAYd4v_aiU2g,hotels,Hotels,4.7,3,,38.7183217,-9.1453236
+Casa Balthazar,Rua do Duque 22 1200-159 Lisbon Portugal,vqIOh4-D7iOW2oXdpRtPbg,hotels,Hotels,4.2,6,€€€,38.7131562,-9.1414217
+Hotel 3K Barcelona,Rua Laura Alves 10 1050-138 Lisbon Portugal,SZKSXoQTCw52QhENEXuqkQ,,,3.7,3,,38.7409144,-9.1502096
+Quinta Colina by Shiadu,"Calçada de Santana, 200 1150-307 Lisbon Portugal",jYn0ZAdA7RGAwGkUwvN2FQ,guesthouses,Guest Houses,5.0,1,,38.717921,-9.139054
+HF Fénix Music,"R. Joaquim António de Aguiar, 5 1050-010 Lisbon Portugal",J0hJPNVLClf-dNwVlXqR7A,hotels,Hotels,4.2,5,€€€,38.725,-9.1520499
+Villa Baixa Lisbon Luxury Apartments,"R. de Santa Justa, 45 1100-483 Lisbon Portugal",Jtf1Xj6arEiQPkpcdvDxbw,vacation_rentals,Vacation Rentals,3.0,4,,38.7124499,-9.13773
+Be Poet Baixa Hotel,"R. Augusta, 220 1100-056 Lisbon Portugal",rhz2zVCARkg840TeDlpxVQ,hotels,Hotels,5.0,3,,38.711963,-9.13809
+Turim Iberia Hotel,"Avenida 5 de Outubro, 160 1050-062 Lisbon Portugal",SLIGAlax8PfaY5I-3HaZ3A,nightlife,Nightlife,2.5,2,,38.7405058,-9.148376
+Park Atlantic,"Rua Castilho, 149 1070-050 Lisbon Portugal",8YmUCHo0v1-KktPUGM5UTQ,hotels,Hotels,4.0,7,€€€€,38.7266617,-9.1552801
+Feels Like Home Prime Suites Hotel,"Tv. do Sequeiro, 4 1200-441 Lisbon Portugal",wjZwWpuMdES34vKb0Tmpxw,hotels,Hotels,5.0,1,,38.710251,-9.145795
+Acores,"Av. Columbano Bordalo Pinheiro, 3 Lisbon Portugal",-Wqm1XDpxOOr8golqQqvew,hotels,Hotels,4.0,1,€€,38.7382162786574,-9.15926165878773
+Hotel Príncipe Lisboa,"Av. Duque de Ávila, 201 1050-082 Lisbon Portugal",AiCL4HGJ8XZ2kw6FU4b1cA,hotels,Hotels,5.0,3,,38.7348518,-9.1510897
+Lisbon Apartments,"R. Latino Coelho, 50 1050-137 Lisbon Portugal",ILtS-xUHB2x4ilRxVaWlgQ,vacation_rentals,Vacation Rentals,4.0,1,,38.733554,-9.151058
+Lisbon São Bento Hotel,"R. de São Bento, 347 1269-084 Lisbon Portugal",fdgX6bZSdoSaIkDItx4oBg,hotels,Hotels,4.0,1,€€,38.718842095231,-9.15573488920927
+Solar dos Mouros,"R. do Milagre de Santo Antonio, 6 1100-351 Lisbon Portugal",_FXX-dwwhZNBKfKTNc1GWQ,hotels,Hotels,4.0,3,€€,38.711506,-9.133177
+Casa de São Mamede,"R. da Escola Politécnica, 159 1250-100 Lisbon Portugal",elNG9oV8E67lnGDYB2uo0w,hotels,Hotels,4.5,2,,38.71838,-9.15271
+Hotel dos Anjos,"Rua Andrade, 16/18 1170-015 Lisbon Portugal",18lpkPi5gDfjDqslaAIZlA,hotels,Hotels,3.0,1,€€,38.7226181,-9.1337605
+Iberostar Selection Lisboa,"R. Castilho, 64 1250-071 Lisbon Portugal",E2hfAsFUHqFAnst82KpStA,hotels,Hotels,2.6,5,,38.7239823,-9.1523726
+Hotel Gat Rossio,"R. do Jardim do Regedor, 27-35 1150-193 Lisbon Portugal",e4mk7FEyObLZm4lAoqMXmw,hotels,Hotels,4.0,9,€€,38.715469,-9.140525
+Pensão Nova Goa,"R. Arco Marquês de Alegrete, 13 1100-034 Lisbon Portugal",5zdiffJZw1VBPvGISmDcyQ,guesthouses,Guest Houses,2.0,4,,38.7169990539551,-9.13864040374756
+Residencial Florescente,"R. das Portas de Santo Antão, 99 1150-266 Lisbon Portugal",w3-V3EAMOaQ2O2xE7RETVA,hotels,Hotels,3.4,5,,38.7164164,-9.1406826
+Guest House Residencial Casa Belmonte,"Av. Duque de Loulé, 95 5º 1050-089 Lisbon Portugal",POzQucaLzddro7yow552iQ,guesthouses,Guest Houses,3.0,1,,38.7260513,-9.1475897
+Stay Inn Lisbon Hostel,"Rua Luz Soriano, nº19, 1º andar 1200-246 Lisbon Portugal",hljiUkXRNvvd_3QoRZVQxg,hotels,Hotels,4.5,2,€€,38.7121323,-9.1457696
+Hotel Jorge V,"R. Mouzinho da Silveira, 3 1250-165 Lisbon Portugal",xyW68cIhCkWCmvXA2uZr1A,hotels,Hotels,3.0,1,,38.7213707,-9.1493902
+Hall Chiado,"Rua do Alecrim, 45 1200-014 Lisbon Portugal",IqI3neFx7Du2F_vZaX68SQ,hotels,Hotels,4.0,2,€€€,38.7080678,-9.1433973
+Neya Lisboa Hotel,"R. Dona Estefânia, 71-77 1150-132 Lisbon Portugal",3qyzllvEr7x6Iu70P3nf6g,hotels,Hotels,4.0,8,€€,38.72931,-9.14053
+Sana Capitol Hotel,"R. Eça de Queirós, 24 1050-096 Lisbon Portugal",aG6UikiFsn_25LWCye2kAw,hotels,Hotels,3.5,2,€€,38.727211,-9.1480703
+Hotel Miraparque,"Av. Sidónio Pais, 12 1050-214 Lisbon Portugal",HKBPQySeAtk0gVbimEFRBA,hotels,Hotels,3.0,1,€€,38.7276649,-9.1490021
+Restaurante Ta no Papo,"Estr. de Moscavide, 27 1800-277 Lisbon Portugal",8piTM7gakFiUAq9rkG3bkw,hotels,Hotels,3.0,1,€€,38.7739182,-9.1006603
+Ibis,"Rua Barata Salguerio, 53 1250-043 Lisbon Portugal",LyrAoVflo2m0uWuq9IkUxg,hotels,Hotels,2.8,5,,38.7201955,-9.1502289
+Casas da Baixa,Rua de São Julião 23 1100-524 Lisbon Portugal,7btJB1Baqthdc9UCrpwSPQ,hotels,Hotels,4.5,2,€€€,38.7096271,-9.135127
+Hotel Canadá,"Av. Defensores de Chaves, 35 1000-111 Lisbon Portugal",022E6Svd8kMH_2KAlqdBzw,hotels,Hotels,4.0,2,,38.73568,-9.14371
+The Independente Hostel & Suites,"R. de São Pedro de Alcântara, 81 1250-238 Lisbon Portugal",n48C3ZUZkId7Zt4AIXTqFA,hostels,Hostels,3.8,6,,38.7148899,-9.14463
+Edifício Ex Libris,"R. da Misericórdia, 137 1200-242 Lisbon Portugal",VusYMJSrXAHysRjdephsyg,vacation_rentals,Vacation Rentals,4.0,1,,38.71272,-9.14332
+Albergaria Chille,"40, Rua Antonio Pedro 01000 Lisbon Portugal",0FqbV2O11N00DFLwLFV-tg,hotels,Hotels,5.0,1,,38.731513,-9.135289
+Alegria Aos Molhos,"R. da Ribeira Nova, 36 1200-376 Lisbon Portugal",MR1i_eKqFpd_OrHKmjcAZw,professional,Professional Services,5.0,1,,38.7075691,-9.1454897
+Estrela dos Anjos Guest House,Rua dos Anjos 70 Lisboa 1150-039 Lisbon Portugal,lxE12PdwtAg7FbmwWKUzuA,guesthouses,Guest Houses,1.0,1,,38.7248,-9.13602
+Good Morning Hostel,"Praça Restauradores, 65 Lisbon Portugal",gtUWa7FlCf8y4Js_w_4T8g,hostels,Hostels,4.4,10,,38.7155402207389,-9.14126873016357
+Hotel Eurostars das Letras,"R. Castilho, 6-12 1250-069 Lisbon Portugal",0gImdnad0zHv-QUb514LVg,hotels,Hotels,4.2,10,€€,38.7199898,-9.1488504
+Hotel Americano,"Rua Primeiro De Dezembro, 73 Assafora Portugal",k8DMDDSJh_oe4aF-zNSPzw,hotels,Hotels,4.0,1,,38.7133087554982,-9.14005117173356
+Manjerico Alegre,"R. do Terreiro do Trigo, 92 1100-604 Lisbon Portugal",OMJjReMeZmmn8B6X_Au95g,realestateagents,Real Estate Agents,4.8,4,€€,38.7103195,-9.1290398
+The 8 DownTown Suites,"R. da Vitória, 8 1100-228 Lisbon Portugal",CM2i-1EqNq0us0rNeIajug,hotels,Hotels,3.8,4,,38.711395,-9.136457
+Tour Sweet Tours - Animação Turística,"R. do Século, 17 1ºEsq. 1200-433 Lisbon Portugal",o68huHfXtqmnowm8bgwM4g,hotels,Hotels,5.0,1,,38.7114296,-9.1472902
+Amazónia Lisboa Hotel,"Travessa Fábrica dos Pentes, 12 1250-106 Lisbon Portugal",98Vl4nkRw3sw5QnYw4grCQ,hotels,Hotels,1.0,1,€€,38.7229309,-9.1550798
+Hotel Expo Astória,"R. Braamcamp, 10 1250-050 Lisbon Portugal",EspxM6zo_qISJ-LbMx_3Yw,hotels,Hotels,3.4,8,€€,38.72394,-9.15108
+Turim Restauradores Hotel,"R. da Glória, 9 1250-114 Lisbon Portugal",Vzpwe92EuMeNohrhJJdSRQ,hotels,Hotels,3.3,4,€€,38.7161199,-9.14331
+Apartment in Lisbon - Turquoise House,Rua de Cabo Verde 16 Lisbon Portugal,dfbaCNNguqeBTWQowG5IfQ,hotels,Hotels,1.0,1,,38.7222,-9.12625
+"Varanda, Hotel Eduardo VII","Avenida Fontes Pereira de Melo, nº 5, 10º andar 1069-114 Lisbon Portugal",fq78pkHgLAC2lO6wxBQbKA,portuguese,Portuguese,5.0,1,,38.7279051,-9.1487884
+hotel residencia estoril,Lisbon Portugal,keCJeX4b71jeml41tZ2crA,hotels,Hotels,3.5,2,,38.7072,-9.13552
+Quinta da Praia das Fontes,Largo do Marquês de Soydos 2890-032 Alcochete Portugal,gp_XbQaaC_0NYAbLCjdKyg,hotels,Hotels,1.0,1,,39.6799087524414,-7.96866512298584
+Tesouro da Baixa by Shiadu,"R. Dom Duarte, 3 1100-198 Lisbon Portugal",hsbKI1M52LsyJJ695cvO6w,guesthouses,Guest Houses,4.0,7,,38.714551,-9.137536
+Hello Lisbon,"Travessa dos Fiéis de Deus, 34 1200-141 Lisbon Portugal",nw41jSUNSdU5urQwtCTe7A,vacation_rentals,Vacation Rentals,2.0,1,,38.711955,-9.144254
+Casa do Mercado Lisboa,"Calçada de Salvador Correia de Sá, 1 1200-379 Lisbon Portugal",fPfQHF0bofk5K2rEkExiuQ,bedbreakfast,Bed & Breakfast,1.0,1,,38.7084537,-9.1472864
+Bons Dias,Calçada do Carmo 25 5º 1200-016 Lisbon Portugal,rpYoYzbBc1apBsbsoF6qEg,hotels,Hotels,2.0,1,,38.71346,-9.14052
+Grande Pensão Alcobia,"R. Poço do Borratém,15 1100-408 Lisbon Portugal",l2W5Z0j0r1kNlY_n9aHBTQ,hotels,Hotels,3.5,2,,38.71408,-9.13655
+Ever Lisboa,"Av. da Liberdade, 189 1250-141 Lisbon Portugal",iz-LQNeJAZwgj8dyw4H3jA,hotels,Hotels,3.0,1,€€,38.7214182043716,-9.14736842136876
+VIP Executive Suítes Éden,"Praça dos Restauradores, 24 1250-187 Lisbon Portugal",xlUvGYpA35aEVEjeGKr3cA,hotels,Hotels,2.6,5,,38.7157154,-9.1412203
+Pensão Londres,"R. D. Pedro V., 53 2º 1250-092 Lisbon Portugal",UhGthz73WLiLXjEV_R8yrQ,guesthouses,Guest Houses,3.3,4,,38.7155685,-9.1459799
+Hotel Metropole,Praça Dom Pedro IV 30 1100-200 Lisbon Portugal,u4Nr18Agl9tLiV0z7-OxQg,hotels,Hotels,2.0,2,,38.7144808,-9.1393373
+Turim Marquês Hotel,"R. Mouzinho da Silveira, 26 1250-167 Lisbon Portugal",dOp79bY60loxGTdByyWxIw,hotels,Hotels,3.0,2,,38.722949,-9.150382
+Largo da Sé Guest House,"Calçada do Correio Velho, nº3 Lisbon Portugal",bakV-SwtQW3svi8YtRxsRw,hotels,Hotels,5.0,1,,38.7105293,-9.1341696
+Czar Lisbon Hotel,"Av. Almirante Reis, 103 1150-020 Lisbon Portugal",RZHSMuDwO1cQiN9YdOgxUA,hotels,Hotels,4.5,2,,38.7293353,-9.134757
+Pensão Rossio,"R. dos Sapateiros, 173 2.° Esq. 1100-577 Lisbon Portugal",CPU8jOLO5qVX1zrep6OCOw,hotels,Hotels,5.0,1,,38.711969,-9.138702
+Shiado Hostel,"R. Anchieta, 5 1200-023 Lisbon Portugal",XXhSVTPVdKXwJPcEG0LEsw,hotels,Hotels,4.0,4,€€,38.709833,-9.141074
+Pensão São João da Praça,R. Sao Joao da Praça 97 1100-519 Lisbon Portugal,f1VfTQ1qsvOHfsx4n50pfA,guesthouses,Guest Houses,4.0,1,,38.7094859,-9.131876
+Restaurante o Gaveto,"Estr. de Benfica, 387 1500-076 Lisbon Portugal",cVzSYVh5-Tbh7kEO6XHckQ,hotels,Hotels,4.0,1,,38.7450294,-9.1808004
+Happy @ Santos,Calçada marques de Abrantes 97 1200-719 Lisbon Portugal,EWIVrs6yBFZO0V6tK-F4Jw,hotels,Hotels,3.0,1,,38.7077916,-9.1547709
+Hapimag,"R. de São José, 41 1150-321 Lisbon Portugal",eJJDnQ_S-7S-WMfbFOjbSA,resorts,Resorts,4.5,2,,38.7186,-9.14261
+Ferienwohnungen Maria do Ceu Florindo da Silva Zacharias,Rua São Vicente Lisbon Portugal,MszBg4IsdOqZ_S01iDV77w,hotels,Hotels,4.0,1,,38.7147,-9.12908
+Pensão Praça da Figueira,"Travessa Nova de São Domingos, 9 1100-372 Lisbon Portugal",9OlPrcsvw5kwiRRMFGgixQ,hotels,Hotels,4.0,1,,38.714369,-9.137657
+Art Beat Rooms,"Rua de São Nicolau, 23 1100-547 Lisbon Portugal",bu2QZ7i9fOWDN1Mv5hhSxw,hostels,Hostels,4.5,2,,38.7104912,-9.1364403
+Goodnight,"Rua dos Correeiros,113 1100-168 Lisbon Portugal",eLn9GlY3xm19cUNDW1ptQg,hotels,Hotels,4.4,7,€€,38.711327,-9.1375778
+Safira,"Rua da Alegria, 5, 2º 1250-005 Lisbon Portugal",bUshm10f_MIEb17P7aj5ag,hotels,Hotels,4.5,2,,38.7178309,-9.145926
+Living Lounge Hostel,Rua do Crucifixo  116 2eme étage Lisbon Portugal,PewbnvrQpCfwWardKuHMZg,professional,Professional Services,4.8,10,,38.7111,-9.13906
+Casa do Patio by Shiadu,"Tv. do Caldeira, 19 1200-084 Lisbon Portugal",0jBAq6Yq3hTZhj42vAy6KA,guesthouses,Guest Houses,3.0,3,,38.709841,-9.149841
+Residencial Jardim da Amadora,"L. do Major Humberto da Cruz, 3 2700-545 Amadora Portugal",9gHXEDPvCTVaqBx5iyhMGQ,hotels,Hotels,2.0,1,,38.7598915,-9.23351
+Hostel B.A.,"Travessa da Cara, 6 1º 1200-089 Lisbon Portugal",6T8l_3JF1KIs3XmoWLvdlA,hotels,Hotels,4.0,1,,38.7142906,-9.1444101
+Residencial Joao XXI,Rua Gomes Freire 179 1150-177 Lisbon Portugal,uuXFpHAbn48d0umiVHsfBQ,guesthouses,Guest Houses,2.7,3,€€,38.7273886,-9.1421169
+Hostel 4U,"Rua das Pedras Negras, 61 5º 1100-402 Lisbon Portugal",rGrYfpPzBecx3r8s27azdg,hotels,Hotels,3.3,3,€€,38.7108192,-9.1352501
+Lisbon Amazing Hostels Bairro Alto,"Rua do Norte, Nº 83 - 1º 1200-284 Lisbon Portugal",a4x9K2UTSwLdDFe87WxmKg,hotels,Hotels,3.0,1,,38.7120285,-9.1437998
